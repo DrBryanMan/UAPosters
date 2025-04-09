@@ -2,7 +2,7 @@
 node_modules/
 
 # Локальні середовищні файли
-.env
+*.py
 
 # Локальні файли
 uaposters avif/

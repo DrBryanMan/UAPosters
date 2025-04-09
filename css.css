@@ -1,0 +1,338 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    border-bottom: 2px solid #0057b7;
+    padding-bottom: 20px;
+}
+
+h1 {
+    color: #0057b7;
+    margin-bottom: 10px;
+}
+
+.truncate {
+    width: 100%;
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.subtitle {
+    color: #ffd700;
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+}
+
+.search-container {
+    flex: 1;
+    max-width: 400px;
+}
+
+.filters {
+    display: flex;
+    gap: 10px;
+    flex: 1;
+    max-width: 400px;
+}
+
+.filters select {
+    padding: 8px 12px;
+    border: 1px solid #ddd5;
+    border-radius: 4px;
+    font-size: 16px;
+    flex: 1;
+}
+
+#search {
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.view-options {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.view-btn {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    padding: 8px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.view-btn i {
+    font-size: 1.2em;
+}
+
+.view-btn.active {
+    background-color: #0057b755;
+    color: white;
+    border-color: #0057b7;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 1em .5em;
+    margin-top: 20px;
+}
+
+.gallery.list-view {
+    grid-template-columns: 1fr;
+}
+
+.poster {
+    border-radius: 8px;
+    overflow: hidden;
+    transition: .3s ease;
+}
+
+.poster:hover {
+    background: #fff5;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-5px);
+}
+
+.gallery.list-view .poster {
+    display: flex;
+    align-items: center;
+}
+
+.poster-img-container {
+    position: relative;
+    width: 100%;
+    max-height: 250px;
+    aspect-ratio: 1/1;
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.gallery.list-view .poster-img-container {
+    width: 150px;
+    min-width: 150px;
+    height: 210px;
+    padding-top: 0;
+}
+
+.poster-img {
+    width: 100%;
+    height: auto;
+}
+
+.poster-info {
+    padding: .5em;
+}
+
+.poster-author {
+    font-size: 14px;
+    color: #666;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+}
+
+.modal.open {
+    opacity: 1;
+    pointer-events: all;
+}
+
+.modal-content {
+    max-width: 90%;
+    max-height: 90%;
+    margin: auto;
+    display: block;
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 25px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    z-index: 101;
+}
+
+.loading {
+    text-align: center;
+    padding: 50px;
+    font-size: 18px;
+    color: #666;
+}
+
+.error {
+    text-align: center;
+    padding: 50px;
+    color: #d9534f;
+    background-color: #f9f2f2;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+/* Pagination styles */
+.pagination {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1em;
+    gap: 1em .3em;
+}
+
+.pagination-btn {
+    padding: 8px 12px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd5;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.pagination-btn:hover {
+    background-color: #e0e0e0;
+}
+
+.pagination-btn.active {
+    background-color: #0057b755;
+    color: white;
+    border-color: #0057b7;
+}
+
+.pagination-btn.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.pagination-nav {
+    display: inline-flex;
+    gap: .5em;
+}
+#page-numbers {
+    display: inline-flex;
+    gap: .2em;
+}
+
+.pagination-info {
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    color: #666;
+}
+
+#items-per-page {
+    margin-left: 10px;
+    padding: 6px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+    .controls {
+        flex-direction: column;
+    }
+    
+    .search-container, .filters {
+        max-width: 100%;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    .filters {
+        flex-direction: column;
+    }
+
+    .gallery {
+        grid-template-columns: repeat(4, 1fr);
+        gap: .5em;
+        margin-top: 0px;
+    }
+    
+    .gallery.list-view .poster {
+        flex-direction: column;
+    }
+    
+    .gallery.list-view .poster-img-container {
+        width: 100%;
+        height: auto;
+        padding-top: 140%;
+    }
+    
+    .pagination {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .pagination-nav {
+        display: flex;
+        gap: 5px;
+        margin-bottom: 10px;
+    }
+}
+
+/* Ukrainian flag colors on scrollbar */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #0057b7;
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #ffd700;
+}
