@@ -37,7 +37,7 @@ let totalPages = 0
 // Функція для завантаження JSON-файлу
 async function loadPosterData() {
     try {
-        const response = await fetch('image_list.json')
+        const response = await fetch('PostersList.json')
         if (!response.ok) {
             throw new Error(`Не вдалося завантажити дані (${response.status})`)
         }
