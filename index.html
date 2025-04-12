@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Галерея українських постерів</title>
+    <title>UAPosters / Галерея українських постерів</title>
     <link rel="stylesheet" href="css.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </head>
 <body>
     <div class="controls">
-        <div class="search-container">
-            <input type="text" id="search" placeholder="Пошук за назвою...">
+        <div class="search">
+            <input type="text" id="search" placeholder="Пошук за назвою, ромаджі, синонімами...">
         </div>
         <div class="filters">
             <select id="author-filter">
@@ -22,7 +22,7 @@
         </div>
         <div class="view-options">
             <button class="view-btn active" id="grid-view" title="Режим сітки">
-                <i class="bi bi-grid-3x3-gap-fill"></i>
+                <i class="bi bi-grid"></i>
             </button>
             <button class="view-btn" id="list-view" title="Режим списку">
                 <i class="bi bi-list-ul"></i>
@@ -30,7 +30,7 @@
         </div>
     </div>
     
-    <div id="loading" class="loading">Завантаження колекції постерів...</div>
+    <div id="loading" class="loading">Завантаження колекції аніме...</div>
     <div id="error" class="error" style="display: none;"></div>
     
     <div id="gallery" class="gallery"></div>
@@ -54,8 +54,7 @@
     </div>
     
     <div id="imageModal" class="modal">
-        <span class="close">&times;</span>
-        <img class="modal-content" id="modalImage">
+        <!-- Вміст модального вікна буде динамічно додано через JavaScript -->
     </div>
     <script type="module" src="js.js"></script>
 </body>

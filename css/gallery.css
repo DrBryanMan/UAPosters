@@ -1,0 +1,73 @@
+/* == Галерея == */
+/* У вигляді сітки */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 1em .5em;
+}
+
+/* У вигляді списку */
+.gallery.list-view {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+/*   */
+
+.poster {
+    border-radius: 8px;
+    overflow: hidden;
+    transition: .3s ease;
+}
+
+.poster:hover {
+    background: #fff5;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-5px);
+}
+
+.gallery.list-view .poster {
+    display: flex;
+    align-items: center;
+}
+
+.poster-img-container {
+    position: relative;
+    width: 100%;
+    max-height: 250px;
+    aspect-ratio: 1/1;
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.poster-count {
+    position: absolute;
+    bottom: 4px;
+    right: 4px;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    font-size: 14px;
+    padding: 0 .3em;
+    border-radius: 4px;
+}
+
+.gallery.list-view .poster-img-container {
+    width: 150px;
+    min-width: 150px;
+    height: 210px;
+    padding-top: 0;
+}
+
+.poster-img {
+    width: 100%;
+    height: auto;
+}
+
+.poster-info {
+    padding: .5em;
+}
+
+.poster-author {
+    font-size: 14px;
+    color: #666;
+}

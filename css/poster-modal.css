@@ -1,0 +1,160 @@
+.modal {
+    display: grid;
+    place-items: center;
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .3s ease;
+}
+.modal.open {
+    opacity: 1;
+    pointer-events: all;
+    backdrop-filter: blur(5px);
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 25px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+    z-index: 101;
+}
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+}
+
+/* Модальне вікно з постерами */
+.modal-content-wrapper {
+    width: 100vw;
+    max-width: 1200px;
+/*    height: calc(100% - 2em);*/
+    max-height: calc(100% - 2em);
+    background-color: #fff2;
+    border-radius: var(--radius);
+    padding: 20px;
+    color: #eee;
+    object-fit: contain;
+    overflow-y: auto;
+}
+
+.modal-top-section {
+    display: flex;
+    flex: 1;
+    gap: 2em;
+}
+
+.main-poster-container {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.modal-main-poster {
+/*    height: 80vh;*/
+    object-fit: contain;
+    border-radius: var(--radius);
+}
+
+
+.filename-caption {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #666;
+    text-align: center;
+    word-break: break-all;
+}
+
+.anime-info-block {
+    flex: 1;
+    min-width: 300px;
+}
+
+.anime-info-block h2 {
+    margin-top: 0;
+}
+
+.anime-romaji {
+    color: #ddd;
+    font-style: italic;
+}
+
+.anime-details {
+    display: flex;
+    align-items: center;
+    gap: .5em;
+    margin-top: 1em;
+}
+.anime-details a {
+    display: flex;
+}
+.anime-details span {
+    line-height: 1;
+    border: 1px solid var(--accent-color);
+    background: var(--accent-color-50);
+    border-radius: var(--radius);
+    padding: .5em 1em;
+}
+
+.posters-gallery {
+    margin-top: 1em;
+}
+
+.posters-gallery {
+    border-top: 1px solid #0005;
+    padding-top: .5em;
+}
+
+.posters-gallery h3 {
+    margin-bottom: 1em;
+}
+
+.thumbnails-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.poster-thumbnail {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 14px;
+    color: #ddd;
+/*    width: 120px;*/
+/*    height: 180px;*/
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.poster-thumbnail:hover {
+    transform: scale(1.05);
+}
+.poster-thumbnail img {
+    width: 120px;
+    outline: 2px solid transparent;
+    border-radius: var(--radius);
+/*    height: 100%;*/
+/*    object-fit: cover;*/
+}
+
+.poster-thumbnail.active img {
+    outline: #4CAF50;
+}

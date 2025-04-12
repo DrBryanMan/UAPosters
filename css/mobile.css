@@ -1,0 +1,80 @@
+/* Адаптивність для малих екранів */
+@media only screen and (max-width: 768px) {
+    .checkbox-container {
+        margin-top: 10px;
+    }
+    .filters {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    select {
+        margin-bottom: 10px;
+    }
+
+    /* Галерея */
+    .gallery {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .gallery.list-view {
+        grid-template-columns: 1fr;
+    }
+
+    /*    */
+    .modal-top-section {
+        flex-direction: column;
+    }
+    
+    .anime-info-block {
+        padding: 0;
+    }
+    
+    .poster-thumbnail {
+        width: 80px;
+        height: 120px;
+    }
+}
+
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+    .controls {
+        flex-direction: column;
+    }
+    
+    .search-container, .filters {
+        max-width: 100%;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    .filters {
+        flex-direction: column;
+    }
+
+    .gallery {
+        grid-template-columns: repeat(4, 1fr);
+        gap: .5em;
+        margin-top: 0px;
+    }
+    
+    .gallery.list-view .poster {
+        flex-direction: column;
+    }
+    
+    .gallery.list-view .poster-img-container {
+        width: 100%;
+        height: auto;
+        padding-top: 140%;
+    }
+    
+    .pagination {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .pagination-nav {
+        display: flex;
+        gap: 5px;
+        margin-bottom: 10px;
+    }
+}

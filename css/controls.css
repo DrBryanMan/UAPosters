@@ -1,0 +1,135 @@
+.controls {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    font-size: 14px;
+/*    flex-wrap: wrap;*/
+/*    gap: 10px;*/
+/*    align-items: center;*/
+}
+
+/* Пошук */
+
+.search {
+    flex: 1;
+    max-width: 400px;
+}
+
+#search {
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid var(--accent-color-50);
+    border-radius: var(--radius);
+    transition: .3s;
+}
+
+#search:hover {
+    border-color: var(--accent-color);
+}
+
+#search:focus {
+    box-shadow: 0 0 5px var(--accent-color-50);
+	outline: unset;
+}
+
+/* Перемикач */
+.toggle-switch-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.toggle-checkbox {
+    display: none;
+/*    height: 0;*/
+/*    width: 0;*/
+/*    opacity: 0;*/
+/*    position: absolute;*/
+}
+
+.toggle-label {
+    display: flex;
+    align-items: center;
+    gap: .5em;
+    cursor: pointer;
+    user-select: none;
+}
+
+.toggle-text {
+	text-wrap: nowrap;
+}
+
+.toggle-switch {
+    position: relative;
+    display: inline-block;
+    width: 48px;
+    height: 24px;
+    background-color: #ccc;
+    border-radius: 24px;
+    transition: .2s;
+}
+
+.toggle-switch::before {
+    position: absolute;
+    content: "";
+    height: 18px;
+    width: 18px;
+    left: 3px;
+    bottom: 3px;
+    background-color: white;
+    border-radius: 50%;
+    transition: transform .2s;
+}
+
+.toggle-checkbox:checked + .toggle-label .toggle-switch {
+    background-color: #4CAF50;
+}
+
+.toggle-checkbox:checked + .toggle-label .toggle-switch::before {
+    transform: translateX(24px);
+}
+
+.toggle-checkbox:focus + .toggle-label .toggle-switch {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+/* Фільтри */
+.filters {
+    display: flex;
+    gap: 10px;
+    flex: 1;
+    max-width: 400px;
+}
+
+.filters select {
+    padding: .2em .3em;
+    border: 1px solid var(--accent-color-50);
+    border-radius: var(--radius);
+    flex: 1;
+}
+
+/* Кнопки вигляду */
+.view-options {
+    display: flex;
+/*    gap: 5px;*/
+    border: 1px solid var(--accent-color-50);
+    border-radius: var(--radius);
+    overflow: hidden;
+/*    align-items: center;*/
+}
+
+.view-btn {
+    display: grid;
+    place-items: center;
+/*    align-items: center;*/
+/*    justify-content: center;*/
+    background-color: #f0f0f0;
+    padding: 0 .5em;
+    transition: .3s;
+}
+
+.view-btn.active {
+    background-color: var(--accent-color-50);
+    color: white;
+    border-color: var(--accent-color);
+}
