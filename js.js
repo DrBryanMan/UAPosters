@@ -81,11 +81,6 @@ function createMatchingOnlyFilter() {
 // Функція для завантаження даних
 async function loadData() {
     try {
-<<<<<<< HEAD
-        const response = await fetch('PostersList.json')
-        if (!response.ok) {
-            throw new Error(`Не вдалося завантажити дані (${response.status})`)
-=======
         loading.style.display = 'block'
         errorDisplay.style.display = 'none'
         
@@ -93,7 +88,6 @@ async function loadData() {
         const animeResponse = await fetch(AnimeTitlesDB)
         if (!animeResponse.ok) {
             throw new Error(`Не вдалося завантажити список аніме (${animeResponse.status})`)
->>>>>>> da509be (Апдейт!)
         }
         
         allAnime = await animeResponse.json()
@@ -682,8 +676,4 @@ document.addEventListener('keydown', (e) => {
 })
 
 // Завантажуємо дані при завантаженні сторінки
-<<<<<<< HEAD
-window.addEventListener('DOMContentLoaded', loadPosterData)
-=======
 window.addEventListener('DOMContentLoaded', loadData)
->>>>>>> da509be (Апдейт!)
