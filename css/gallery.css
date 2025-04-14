@@ -41,6 +41,9 @@
 .gallery.list-view ~ .modal .modal-full-poster {
     max-height: calc(100vh - 3em - 53px);
 }
+.gallery.list-view .poster .poster-info {
+    width: calc(100% - 150px);
+}
 
 /*   */
 
@@ -97,7 +100,6 @@
 }
 
 .poster-info {
-    width: calc(100% - 150px);
     padding: .5em;
 }
 
