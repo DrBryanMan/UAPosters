@@ -3,12 +3,12 @@
 *.json
 *.js
 filterAnime.js
-# image_list.json
 
 # Папки
-uaposters avif/
-Від команд
-Невідомо
-Мульти
-гуртом avif
+Від команд/
+Невідомо/
+Мульти/
+Постери/Авторські/*
+!Постери/Авторські/**/
+
 !PostersList.json

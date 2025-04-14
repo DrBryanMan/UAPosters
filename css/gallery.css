@@ -2,13 +2,44 @@
 /* У вигляді сітки */
 .gallery {
     display: grid;
-    grid-template-columns: repeat(8, 1fr);
+    justify-content: center;
+    grid-template-columns: repeat(8, minmax(0, 250px));
     gap: 1em .5em;
 }
 
 /* У вигляді списку */
 .gallery.list-view {
     grid-template-columns: repeat(2, 1fr);
+}
+
+.gallery.list-view .poster {
+    background: #fff8;
+}
+
+.gallery.list-view .poster .thumbnails-container {
+    margin-top: .5em;
+    padding: .5em 0;
+    border-top: 1px solid var(--accent-color-50);
+}
+.gallery.list-view .poster .poster-thumbnail span {
+     display: none; 
+}
+.gallery.list-view .poster .anime-details span {
+    border: none;
+    color: var(--accent-color);
+    padding: .3em .4em;
+    font-size: 12px;
+}
+.gallery.list-view .poster .poster-thumbnail img {
+    width: 50px;
+}
+
+.gallery.list-view ~ .modal .modal-content-wrapper {
+    display: grid;
+    width: min-content;
+}
+.gallery.list-view ~ .modal .modal-full-poster {
+    max-height: calc(100vh - 3em - 53px);
 }
 
 /*   */
@@ -32,9 +63,10 @@
 
 .poster-img-container {
     position: relative;
-    width: 100%;
+    display: flex;
+    max-width: 250px;
     max-height: 250px;
-    aspect-ratio: 1/1;
+    aspect-ratio: 1 / 1;
     border-radius: 8px;
     overflow: hidden;
     cursor: pointer;
@@ -61,9 +93,11 @@
 .poster-img {
     width: 100%;
     height: auto;
+    object-fit: cover;
 }
 
 .poster-info {
+    width: calc(100% - 150px);
     padding: .5em;
 }
 

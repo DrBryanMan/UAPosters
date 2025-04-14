@@ -1,4 +1,4 @@
-const imgpath = "https://raw.githubusercontent.com/DrBryanMan/UAPosters/main/"
+// const imgpath = "https://raw.githubusercontent.com/DrBryanMan/UAPosters/main/"
 const AnimeTitlesDB = "https://raw.githubusercontent.com/DrBryanMan/CPRcatalog/main/json/AnimeTitlesDB.json"
 const imgblack = 'data:image/svg+xml;charset=UTF-8,%3Csvg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 100 100"%3E%3Crect fill="%23f5f5f5" width="100" height="100"/%3E%3Cpath fill="%23999" d="M36 33h28v34H36z"/%3E%3Cpath fill="%23fff" d="M50 39a6 6 0 1 1 0 12 6 6 0 0 1 0-12z"/%3E%3Cpath fill="%23999" d="M58 65l-16-16v16z"/%3E%3C/svg%3E'
 
@@ -24,6 +24,7 @@ const authorFilter = document.getElementById('author-filter')
 const teamFilter = document.getElementById('team-filter')
 let matchingOnlyCheckbox = null
 let toggleSwitch = null
+let currentView = 'grid'
 
 // Зберігаємо дані про всі аніме та постери
 let allAnime = []
@@ -241,7 +242,15 @@ function filterAnime() {
         }
         
         // Фільтр за командою (на майбутнє, якщо додасте команди до постерів)
-        const matchesTeam = selectedTeam === ''
+        let matchesTeam = selectedTeam === ''
+        if (!matchesTeam && hasPoster) {
+            const posterItem = postersMap.get(anime.hikka_url)
+            if (posterItem.posters && Array.isArray(posterItem.posters)) {
+                matchesTeam = posterItem.posters.some(poster => 
+                    poster.team === selectedTeam
+                )
+            }
+        }
         
         return matchesSearch && matchesAuthor && matchesTeam
     })
@@ -339,6 +348,7 @@ function renderAnime() {
     // Відображаємо аніме для поточної сторінки
     for (let i = startIndex; i < endIndex; i++) {
         const anime = filteredAnime[i]
+        const posterData = postersMap.get(anime.hikka_url)
         
         const animeCard = document.createElement('div')
         animeCard.className = 'poster'
@@ -349,47 +359,110 @@ function renderAnime() {
             animeCard.classList.add('no-poster') // Додаємо клас для тайтлів без постера
         }
         
-        animeCard.innerHTML = `
-            <div class="poster-img-container">
-                <img 
-                    class="poster-img"
-                    src="${anime.poster || imgblack}"
-                    title="${anime.title || 'Аніме без назви'}"
-                >
-                <span class="poster-count">
-                    <i class="bi bi-image"></i> ${(postersMap.get(anime.hikka_url)?.posters?.length || 0)}
-                </span>
-            </div>
-            <div class="poster-info">
-                <h4
-                    class="truncate"
-                    title="${anime.title || 'Аніме без назви'}"
-                >${anime.title || 'Аніме без назви'}</h4>
-                <p
-                    class="romaji truncate"
-                    title="${anime.romaji || 'Аніме без назви'}"
-                >${anime.romaji}</p>
-            </div>
-        `
-        // const imgContainer = document.createElement('div')
-        // imgContainer.className = 'poster-img-container'
-        
-        // const img = document.createElement('img')
-        // img.className = 'poster-img'
-        
-        // Використовуємо постер з аніме або плейсхолдер
-        // if (anime.poster) {
-        //     img.src = anime.poster
-        // } else {
-        //     img.src = imgblack
-        // }
-        
-        // img.alt = anime.title || 'Аніме без назви'
-        
-        // Обробка помилок завантаження зображення
-        // img.onerror = () => {
-        //     img.src = imgblack
-        // }
+        switch (currentView) {
+            case 'grid':
+                animeCard.innerHTML = `
+                    <div class="poster-img-container">
+                        <img 
+                            class="poster-img"
+                            src="${anime.poster || imgblack}"
+                            title="${anime.title || 'Аніме без назви'}"
+                        >
+                        <span class="poster-count">
+                            <i class="bi bi-image"></i> ${(posterData?.posters?.length || 0)}
+                        </span>
+                    </div>
+                    <div class="poster-info">
+                        <h4
+                            class="truncate"
+                            title="${anime.title || 'Аніме без назви'}"
+                        >${anime.title || 'Аніме без назви'}</h4>
+                        <p
+                            class="romaji truncate"
+                            title="${anime.romaji || 'Аніме без назви'}"
+                        >${anime.romaji}</p>
+                    </div>
+                `
+                animeCard.onclick = () => openAnimeModal(anime, posterData)
+                break
+            case 'list':
+                animeCard.innerHTML = `
+                    <div class="poster-img-container">
+                        <img 
+                            class="poster-img"
+                            src="${anime.poster || imgblack}"
+                            title="${anime.title || 'Аніме без назви'}"
+                        >
+                        <span class="poster-count">
+                            <i class="bi bi-image"></i> ${(posterData?.posters?.length || 0)}
+                        </span>
+                    </div>
+                    <div class="poster-info">
+                        <h4
+                            class="truncate"
+                            title="${anime.title || 'Аніме без назви'}"
+                        >${anime.title || 'Аніме без назви'}</h4>
+                        <p
+                            class="romaji truncate"
+                            title="${anime.romaji || 'Аніме без назви'}"
+                        >${anime.romaji}</p>
+                        <div class='anime-details'>
+                            <span>${anime.format}</span>
+                            <span>${anime.year}</span>
+                            <a target='_blank' href="${anime.hikka_url}"><img height='30px' src="https://rosset-nocpes.github.io/ua-badges/src/hikka-dark.svg" alt=""></a>
+                        </div>
+                        <div class='thumbnails-container'></div>
+                    </div>
+                `
+                const thumbnailsContainer = animeCard.querySelector('.thumbnails-container')
+                
+                // Додаємо постери з локального списку, якщо вони є
+                if (posterData && posterData.posters && posterData.posters.length > 0) {
+                    posterData.posters.forEach((poster, index) => {
+                        const thumbnail = document.createElement('div')
+                        thumbnail.className = 'poster-thumbnail'
+                        
+                        const thumbImg = document.createElement('img')
+                        thumbImg.src = poster.url || imgblack
+                        thumbImg.alt = `Постер ${index + 1}`
+
+                        const thumbAuthor = document.createElement('span')
+                        thumbAuthor.textContent = `${poster.author || poster.team}`
+                        
+                        // При кліку на мініатюру змінюємо основний постер
+                        // thumbnail.addEventListener('click', () => {
+                        //     mainPoster.src = poster.url
+                        //     filenameCaption.textContent = poster.url ? poster.url.split('/').pop() : 'Невідомий файл'
+                            
+                        //     // Виділяємо активну мініатюру
+                        //     document.querySelectorAll('.poster-thumbnail').forEach(thumb => thumb.classList.remove('active'))
+                        //     thumbnail.classList.add('active')
+                        // })
+                        
+                        // // Виділяємо першу мініатюру як активну
+                        // if (index === 0) {
+                        //     thumbnail.classList.add('active')
+                        // }
+                        
+                        thumbnail.appendChild(thumbImg)
+                        thumbnail.appendChild(thumbAuthor)
+                        thumbnailsContainer.appendChild(thumbnail)
+                        thumbnail.onclick = (e) => {
+                            e.stopPropagation() // щоб не відкривалось інше модальне вікно
+                            openPosterOnlyModal(poster)
+                        }
+                    })
+                } else {
+                    const noPosters = document.createElement('p')
+                    noPosters.textContent = 'Нема доступних постерів у колекції.'
+                    thumbnailsContainer.appendChild(noPosters)
+                }
+                // animeCard.onclick = () => openAnimeModal(anime, posterData)
+                break
+        }
+
+        const img = animeCard.querySelector('.poster-img')
+        img.onerror = () => img.src = imgblack
         
         // Додаємо іконку відсутності постера для тайтлів без постерів
         const imgContainer = animeCard.querySelector('.poster-img-container')
@@ -399,50 +472,36 @@ function renderAnime() {
             noPosterIcon.innerHTML = '<i class="bi bi-image"></i>'
             imgContainer.appendChild(noPosterIcon)
         }
-        // imgContainer.appendChild(img)
-        
-        // const info = document.createElement('div')
-        // info.className = 'poster-info'
-        
-        // const title = document.createElement('h4')
-        // title.textContent = anime.title || 'Аніме без назви'
-        // title.className = 'truncate'
-        
-        // Додаємо оригінальну назву, якщо є
-        // if (anime.romaji) {
-        //     const romaji = document.createElement('p')
-        //     romaji.className = 'poster-romaji'
-        //     romaji.textContent = anime.romaji
-        //     info.appendChild(romaji)
-        // }
-        
-        // Додаємо автора постера, якщо є
-        // const posterItem = postersMap.get(anime.hikka_url)
-        // if (posterItem && posterItem.posters && posterItem.posters.length > 0) {
-        //     const posterAuthor = document.createElement('p')
-        //     posterAuthor.className = 'poster-author'
-        //     posterAuthor.textContent = `Автор постера: ${posterItem.posters[0].author || 'Невідомий'}`
-        //     info.appendChild(posterAuthor)
-        // }
-        
-        // info.appendChild(title)
-        
-        // animeCard.appendChild(imgContainer)
-        // animeCard.appendChild(info)
-        
-        // Відкриття модального вікна з деталями аніме та всіма постерами
-        animeCard.onclick = () => {
-            openAnimeModal(anime, postersMap.get(anime.hikka_url))
-        }
         
         gallery.appendChild(animeCard)
     }
-    
-    // Прокручуємо до верху галереї при зміні сторінки
-    // window.scrollTo({
-    //     behavior: 'smooth'
-    // })
 }
+
+function openPosterOnlyModal(poster) {
+    modal.innerHTML = `
+        <div class="modal-content-wrapper">
+                <img 
+                    class="modal-full-poster"
+                    src="${poster.url}"
+                >
+                <div class='filename-caption'>${poster.url.split('/').pop() || 'Невідомий файл'}<br>${poster.author}</div>
+        </div>
+    `
+
+    // const img = document.createElement('img')
+    // img.src = poster.url
+    // img.className = 'modal-full-poster'
+
+    // const closeBtn = document.createElement('span')
+    // closeBtn.className = 'close'
+    // closeBtn.innerHTML = '&times;'
+    // closeBtn.onclick = () => modal.classList.remove('open')
+
+    // modal.appendChild(closeBtn)
+    modal.classList.add('open')
+    document.body.style.overflow = 'hidden'
+}
+
 
 // Функція для відкриття модального вікна з деталями аніме та всіма постерами
 function openAnimeModal(anime, posterData) {
@@ -470,7 +529,7 @@ function openAnimeModal(anime, posterData) {
         currentPosterFilename = posterData.posters[0].url ? posterData.posters[0].url.split('/').pop() : 'Невідомий файл'
     }
     
-    mainPoster.src = currentPosterUrl || 'data:image/svg+xml;charset=UTF-8,%3Csvg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 100 100"%3E%3Crect fill="%23f5f5f5" width="100" height="100"/%3E%3Cpath fill="%23999" d="M36 33h28v34H36z"/%3E%3Cpath fill="%23fff" d="M50 39a6 6 0 1 1 0 12 6 6 0 0 1 0-12z"/%3E%3Cpath fill="%23999" d="M58 65l-16-16v16z"/%3E%3C/svg%3E'
+    mainPoster.src = currentPosterUrl || imgblack
     mainPoster.alt = anime.title || 'Аніме без назви'
     
     // Додаємо підпис з назвою файлу
@@ -600,6 +659,7 @@ function openAnimeModal(anime, posterData) {
     modal.appendChild(closeBtn)
     modal.appendChild(modalContent)
     modal.classList.add('open')
+    document.body.style.overflow = 'hidden'
 }
 
 // Пошук і фільтрація аніме
@@ -650,21 +710,26 @@ itemsPerPageSelect.onchange = () => {
 
 // Перемикання режимів відображення
 gridViewBtn.onclick = () => {
+    currentView = 'grid'
     gallery.classList.remove('list-view')
     gridViewBtn.classList.add('active')
     listViewBtn.classList.remove('active')
+    renderAnime()
 }
 
 listViewBtn.onclick = () => {
+    currentView = 'list'
     gallery.classList.add('list-view')
     listViewBtn.classList.add('active')
     gridViewBtn.classList.remove('active')
+    renderAnime()
 }
 
 // Закриття модального вікна
 document.onclick = (e) => {
     if (e.target === modal) {
         modal.classList.remove('open')
+        document.body.style.overflow = ''
     }
 }
 
@@ -672,6 +737,7 @@ document.onclick = (e) => {
 document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape' && modal.classList.contains('open')) {
         modal.classList.remove('open')
+        document.body.style.overflow = ''
     }
 })
 
