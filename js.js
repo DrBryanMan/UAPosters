@@ -1,6 +1,6 @@
 // const imgpath = "https://raw.githubusercontent.com/DrBryanMan/UAPosters/main/"
 const AnimeTitlesDB = "https://raw.githubusercontent.com/DrBryanMan/CPRcatalog/main/json/AnimeTitlesDB.json"
-const imgblack = 'data:image/svg+xml;charset=UTF-8,%3Csvg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 100 100"%3E%3Crect fill="%23f5f5f5" width="100" height="100"/%3E%3Cpath fill="%23999" d="M36 33h28v34H36z"/%3E%3Cpath fill="%23fff" d="M50 39a6 6 0 1 1 0 12 6 6 0 0 1 0-12z"/%3E%3Cpath fill="%23999" d="M58 65l-16-16v16z"/%3E%3C/svg%3E'
+const imgback = 'data:image/svg+xml;charset=UTF-8,%3Csvg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 100 100"%3E%3Crect fill="%23f5f5f5" width="100" height="100"/%3E%3Cpath fill="%23999" d="M36 33h28v34H36z"/%3E%3Cpath fill="%23fff" d="M50 39a6 6 0 1 1 0 12 6 6 0 0 1 0-12z"/%3E%3Cpath fill="%23999" d="M58 65l-16-16v16z"/%3E%3C/svg%3E'
 
 // Основні елементи
 const gallery = document.getElementById('gallery')
@@ -185,14 +185,21 @@ function filterAnime() {
         }
     })
     
-    filteredAnime = allAnime.filter(anime => {
+    // Визначаємо базовий масив для фільтрації
+    if (showOnlyMatching) {
+        // Беремо аніме за порядком з allPosters
+        filteredAnime = allPosters.map(posterItem => 
+            allAnime.find(anime => anime.hikka_url === posterItem.hikka_url)
+        ).filter(anime => anime !== undefined)
+    } else {
+        // Беремо всі аніме
+        filteredAnime = allAnime
+    }
+    
+    // Застосовуємо фільтри до вибраного масиву
+    filteredAnime = filteredAnime.filter(anime => {
         // Перевіряємо наявність постера для цього аніме
         const hasPoster = postersMap.has(anime.hikka_url)
-        
-        // Якщо вибрано показувати тільки збіги і немає постерів - фільтруємо
-        if (showOnlyMatching && !hasPoster) {
-            return false
-        }
         
         // Фільтр за пошуковим запитом
         const titleMatch = anime.title && anime.title.toLowerCase().includes(searchTerm)
@@ -241,7 +248,7 @@ function filterAnime() {
             }
         }
         
-        // Фільтр за командою (на майбутнє, якщо додасте команди до постерів)
+        // Фільтр за командами
         let matchesTeam = selectedTeam === ''
         if (!matchesTeam && hasPoster) {
             const posterItem = postersMap.get(anime.hikka_url)
@@ -255,7 +262,26 @@ function filterAnime() {
         return matchesSearch && matchesAuthor && matchesTeam
     })
     
-    currentPage = 1 // Повертаємося до першої сторінки при фільтрації
+    const noResults = document.createElement('p')
+    noResults.className = 'error'
+    if (searchTerm && searchTerm.length < 3) {
+        gallery.innerHTML = ''
+        gallery.style.display = 'block'
+        noResults.innerHTML = 'Як щось знайти по двом символам?! Введіть більше двох символів.'
+        gallery.appendChild(noResults)
+        return
+    } else if (filteredAnime.length === 0) {
+        gallery.innerHTML = ''
+        gallery.style.display = 'block'
+        noResults.textContent = 'За вашим запитом нічого не знайдено.'
+        gallery.appendChild(noResults)
+        return
+    } else {
+        gallery.style.display = 'grid'
+        renderAnime()
+    }
+
+    currentPage = 1 // Повертаємось до першої сторінки при фільтрації
     updatePagination()
     renderAnime()
 }
@@ -325,14 +351,6 @@ function generatePageNumbers() {
 function renderAnime() {
     gallery.innerHTML = ''
     
-    if (filteredAnime.length === 0) {
-        const noResults = document.createElement('div')
-        noResults.className = 'error'
-        noResults.textContent = 'За вашим запитом нічого не знайдено'
-        gallery.appendChild(noResults)
-        return
-    }
-    
     // Створюємо мапу постерів для швидкого доступу за hikka_url
     const postersMap = new Map()
     allPosters.forEach(posterItem => {
@@ -349,7 +367,6 @@ function renderAnime() {
     for (let i = startIndex; i < endIndex; i++) {
         const anime = filteredAnime[i]
         const posterData = postersMap.get(anime.hikka_url)
-        
         const animeCard = document.createElement('div')
         animeCard.className = 'poster'
         
@@ -365,7 +382,7 @@ function renderAnime() {
                     <div class="poster-img-container">
                         <img 
                             class="poster-img"
-                            src="${anime.poster || imgblack}"
+                            src="${anime.hikka_poster || imgback}"
                             title="${anime.title || 'Аніме без назви'}"
                         >
                         <span class="poster-count">
@@ -390,7 +407,7 @@ function renderAnime() {
                     <div class="poster-img-container">
                         <img 
                             class="poster-img"
-                            src="${anime.poster || imgblack}"
+                            src="${anime.hikka_poster || imgback}"
                             title="${anime.title || 'Аніме без назви'}"
                         >
                         <span class="poster-count">
@@ -423,7 +440,7 @@ function renderAnime() {
                         thumbnail.className = 'poster-thumbnail'
                         
                         const thumbImg = document.createElement('img')
-                        thumbImg.src = poster.url || imgblack
+                        thumbImg.src = poster.url || imgback
                         thumbImg.alt = `Постер ${index + 1}`
 
                         const thumbAuthor = document.createElement('span')
@@ -462,7 +479,7 @@ function renderAnime() {
         }
 
         const img = animeCard.querySelector('.poster-img')
-        img.onerror = () => img.src = imgblack
+        img.onerror = () => img.src = imgback
         
         // Додаємо іконку відсутності постера для тайтлів без постерів
         const imgContainer = animeCard.querySelector('.poster-img-container')
@@ -529,7 +546,7 @@ function openAnimeModal(anime, posterData) {
         currentPosterFilename = posterData.posters[0].url ? posterData.posters[0].url.split('/').pop() : 'Невідомий файл'
     }
     
-    mainPoster.src = currentPosterUrl || imgblack
+    mainPoster.src = currentPosterUrl || imgback
     mainPoster.alt = anime.title || 'Аніме без назви'
     
     // Додаємо підпис з назвою файлу
@@ -608,7 +625,7 @@ function openAnimeModal(anime, posterData) {
             thumbnail.className = 'poster-thumbnail'
             
             const thumbImg = document.createElement('img')
-            thumbImg.src = poster.url || imgblack
+            thumbImg.src = poster.url || imgback
             thumbImg.alt = `Постер ${index + 1}`
 
             const thumbAuthor = document.createElement('span')

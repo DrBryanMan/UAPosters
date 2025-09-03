@@ -65,9 +65,8 @@ i.bi {
     text-align: center;
     padding: 50px;
     color: #d9534f;
-    background-color: #f9f2f2;
-    border-radius: 8px;
-    margin: 20px 0;
+    background-color: #fff1f1;
+    border-radius: var(--radius);
 }
 
 /* Ukrainian flag colors on scrollbar */
