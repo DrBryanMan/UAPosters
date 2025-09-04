@@ -243,20 +243,24 @@
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/takopii-no-genzai-0d70f7",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
-        "author": "Олехандро"
+        "url": "Постери/Авторські/Mikai/takopi-ukr.webp",
+        "author": "Mikai"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/log-horizon-2nd-season-d72fa9",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
-        "author": "Олехандро"
+        "url": "Постери/Авторські/Mikai/horizon_logo.webp",
+        "author": "Mikai"
+      },
+      {
+        "url": "Постери/Авторські/Mikai/horizon_logo.webp",
+        "author": "Mikai"
       }
     ]
   },
@@ -1760,6 +1764,10 @@
       {
         "url": "Постери/Авторські/uaposters/Поклик ночі 2.webp",
         "author": "uaposters"
+      },
+      {
+        "url": "Постери/Авторські/Mikai/night-2-ukr.webp",
+        "author": "Mikai"
       }
     ]
   },
@@ -1799,6 +1807,10 @@
       {
         "url": "Постери/Авторські/uaposters/Мовчазна відьма.webp",
         "author": "uaposters"
+      },
+      {
+        "url": "Постери/Авторські/Mikai/witch-ukr.webp",
+        "author": "Mikai"
       }
     ]
   },
@@ -1827,6 +1839,10 @@
   {
     "hikka_url": "https://hikka.io/anime/lazarus-79875a",
     "posters": [
+      {
+        "url": "Постери/Авторські/Mikai/lazarus-ukr.webp",
+        "author": "Mikai"
+      },
       {
         "url": "Постери/Авторські/uaposters/Лазар (2 версія).webp",
         "author": "uaposters"
@@ -11878,16 +11894,20 @@
         "author": "Олехандро"
       },
       {
-        "url": "Постери/Авторські/Від Олехандро/KUSURIYA NO HITORIGOTO 2.2.webp",
+        "url": "Постери/Авторські/Від Олехандро/KUSURIYA NO HITORIGOTO 2.1.webp",
         "author": "Олехандро"
       },
       {
-        "url": "Постери/Авторські/Від Олехандро/KUSURIYA NO HITORIGOTO 2.1.webp",
+        "url": "Постери/Авторські/Від Олехандро/KUSURIYA NO HITORIGOTO 2.2.webp",
         "author": "Олехандро"
       },
       {
         "url": "Постери/Авторські/uaposters/Монолог травниці 2 сезон.webp",
         "author": "uaposters"
+      },
+      {
+        "url": "Постери/Авторські/Mikai/diaries-ukr.webp",
+        "author": "Mikai"
       }
     ]
   },
@@ -12593,6 +12613,10 @@
       {
         "url": "Постери/Авторські/uaposters/Дні Сакамото.webp",
         "author": "uaposters"
+      },
+      {
+        "url": "Постери/Авторські/Mikai/sakamoto-ukr.webp",
+        "author": "Mikai"
       }
     ]
   },
@@ -12624,6 +12648,10 @@
       {
         "url": "Постери/Авторські/Візуали/Picsart_24-04-12_11-10-47-388.webp",
         "author": "Візуали"
+      },
+      {
+        "url": "Постери/Авторські/Mikai/honey-lemon-ukr.webp",
+        "author": "Mikai"
       },
       {
         "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1740128398/%D0%BC%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE-%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BD%D0%B0_%D1%81%D0%BE%D0%B4%D0%BE%D0%B2%D0%B0_2_p6qupw.jpg",
@@ -12955,6 +12983,10 @@
       {
         "url": "Постери/Авторські/uaposters/Я_одружився_з_однокласницею_2_версія.webp",
         "author": "uaposters"
+      },
+      {
+        "url": "Постери/Авторські/Mikai/married-ukr.webp",
+        "author": "Mikai"
       }
     ]
   },
