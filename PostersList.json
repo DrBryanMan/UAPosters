@@ -3,8 +3,8 @@
     "hikka_url": "",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
-        "author": "Олехандро"
+        "url": "Постери/Авторські/uaposters/.webp",
+        "author": "uaposters"
       }
     ]
   },
@@ -12,233 +12,402 @@
     "hikka_url": "",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/uaposters/.webp",
+        "author": "uaposters"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/shi-wai-2025-37bab6",
+    "posters": [
+      {
+        "url": "Постери/Авторські/uaposters/Інший Світ.webp",
+        "author": "uaposters"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/disney-twisted-wonderland-08bb38",
+    "posters": [
+      {
+        "url": "Постери/Авторські/uaposters/Викривлений Дивокрай.webp",
+        "author": "uaposters"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/baan-otona-no-kyoukai-452f90",
+    "posters": [
+      {
+        "url": "Постери/Авторські/UaAniSub/baan.webp",
+        "author": "honeychan",
+        "team": "UaAniSub"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/watashi-wo-tabetai-hitodenashi-4c0663",
+    "posters": [
+      {
+        "url": "Постери/Авторські/UaAniSub/Watashi.wo.Tabetai.Hitodenashi.webp",
+        "author": "honeychan",
+        "team": "UaAniSub"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/doupo-cangqiong-nian-fan-7e9d9d",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Окремі/РНС.5.webp",
+        "author": "Raffaelle"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/ranma-12-unknown-94206f",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Візуали/Ranma 1-2 2.webp",
+        "author": "Візуали"
+      },
+      {
+        "url": "Постери/Авторські/Візуали/Ranma 1-2.webp",
+        "author": "Візуали"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/akage-no-anne-25fb37",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Від Олехандро/Akage no Anne.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/versailles-no-bara-560e4e",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Versailles no Bara 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/sekai-meisaku-douwa-oyayubi-hime-a7d0dc",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Sekai Meisaku Douwa_ Oyayubi Hime 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/mirai-shounen-conan-7eb8ee",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Mirai Shounen Conan 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/lupin-iii-lupin-vs-fukusei-ningen-52a563",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Lupin III Lupin vs. Fukusei-ningen 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/lupin-iii-cagliostro-no-shiro-f7413b",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Lupin III Cagliostro no Shiro 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/araiguma-rascal-fa645b",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Araiguma Rascal 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/andersen-douwa-ningyohime-f60eb8",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Andersen Douwa Ningyohime 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/kanashimi-no-belladonna-121c0e",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/belladonna 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/ashita-no-joe-d468e6",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Ashita no Joe 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/soratobu-yuureisen-6daac1",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Soratobu Yuureisen.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/nagagutsu-wo-haita-neko-d3f2af",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Nagagutsu wo Haita Neko.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/tokyo-revengers-zoku-hen-e567d1",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/tokyo revengers 4.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/tokyo-revengers-tenjiku-hen-13f1af",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/tokyo revengers 3.2.webp",
+        "author": "Олехандро"
+      },
+      {
+        "url": "Постери/Авторські/Від Олехандро/tokyo revengers 3.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/tokyo-revengers-seiya-kessen-hen-e1f51b",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/tokyo revengers 2.2.webp",
+        "author": "Олехандро"
+      },
+      {
+        "url": "Постери/Авторські/Від Олехандро/tokyo revengers 2.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/tokyo-revengers-d25732",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/tokyo revengers 1.3.webp",
+        "author": "Олехандро"
+      },
+      {
+        "url": "Постери/Авторські/Від Олехандро/tokyo revengers 1.2.webp",
+        "author": "Олехандро"
+      },
+      {
+        "url": "Постери/Авторські/Від Олехандро/tokyo revengers 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai-b2e040",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/kaguya movie 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan-9e9cf4",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/kaguya ova 4.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-ova-b86f2e",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/kaguya ova 3.2.webp",
+        "author": "Олехандро"
+      },
+      {
+        "url": "Постери/Авторські/Від Олехандро/kaguya ova 3.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/kaguya-sama-wa-kokurasetai-ultra-romantic-fcd761",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/kaguya 3.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-73a73c",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/kaguya 2.2.webp",
+        "author": "Олехандро"
+      },
+      {
+        "url": "Постери/Авторські/Від Олехандро/kaguya 2.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-a3ac07",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/kaguya 1.2.webp",
+        "author": "Олехандро"
+      },
+      {
+        "url": "Постери/Авторські/Від Олехандро/kaguya 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/alps-no-shoujo-heidi-19f682",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/heidi 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/haha-wo-tazunete-sanzenri-2f2cc9",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Haha wo Tazunete Sanzenri.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/ginga-tetsudou-999-9a35ff",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Ginga Tetsudou 999 1.1.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2-7bfd91",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Genjitsu Shugi Yuusha no Oukoku Saikenki 2.1.webp",
         "author": "Олехандро"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/genjitsu-shugi-yuusha-no-oukoku-saikenki-c34406",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Від Олехандро/Genjitsu Shugi Yuusha no Oukoku Saikenki 1.1.webp",
+        "author": "Олехандро"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/dororo-to-hyakkimaru-a2708d",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Від Олехандро/Dororo to Hyakkimaru.webp",
+        "author": "Олехандро"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/dororo-pilot-734ade",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Від Олехандро/dororo pilot 1.1.webp",
+        "author": "Олехандро"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/chirin-no-suzu-bd59bd",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Від Олехандро/Chirin no Suzu 1.1.webp",
+        "author": "Олехандро"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/candy-candy-71ce94",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Від Олехандро/Candy Candy 1.1.webp",
+        "author": "Олехандро"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/doraemon-1979-e73fe6",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Від Олехандро/doraemon 1979 1.1.webp",
+        "author": "Олехандро"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/doraemon-movie-01-nobita-no-kyouryuu-6cc743",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Від Олехандро/Doraemon Nobita's Dinosaur 1.1.webp",
+        "author": "Олехандро"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/juuni-kokuki-f6e58e",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Окремі/Twelve Kingdoms.webp",
+        "author": "gnick1"
       }
     ]
   },
@@ -849,6 +1018,10 @@
   {
     "hikka_url": "https://hikka.io/anime/chainsaw-man-movie-reze-hen-c4febd",
     "posters": [
+      {
+        "url": "Постери/Локалізовані/Chainsaw Man Movie Reze.webp",
+        "author": "Локалізовані"
+      },
       {
         "url": "Постери/Авторські/Від Олехандро/chainsawman reze 1.3.webp",
         "author": "Олехандро"
@@ -1494,6 +1667,10 @@
   {
     "hikka_url": "https://hikka.io/anime/sousou-no-frieren-2nd-season-427021",
     "posters": [
+      {
+        "url": "Постери/Авторські/uaposters/Фрірен 2 сезон 01.webp",
+        "author": "uaposters"
+      },
       {
         "url": "Постери/Авторські/Від Олехандро/frieren 2.1.webp",
         "author": "Олехандро"
@@ -2572,6 +2749,10 @@
     "hikka_url": "https://hikka.io/anime/ooi-tonbo-5e205d",
     "posters": [
       {
+        "url": "Постери/Авторські/uaposters/Агов, Томбо!.webp",
+        "author": "uaposters"
+      },
+      {
         "url": "Постери/Авторські/uaposters/Гей! Тонбо.webp",
         "author": "uaposters"
       }
@@ -2971,6 +3152,11 @@
   {
     "hikka_url": "https://hikka.io/anime/one-piece-929f5d",
     "posters": [
+      {
+        "url": "Постери/Авторські/Окремі/One Piece Togarashi.webp",
+        "author": "Невідомо",
+        "team": "Togarashi"
+      },
       {
         "url": "Постери/Авторські/Гуртом/one-piece.webp",
         "author": "Гуртом"
@@ -4078,8 +4264,8 @@
         "author": ""
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938677/5_сантиметрів_2_oyn7so.jpg",
-        "author": ""
+        "url": "5_сантиметрів_2_oyn7so",
+        "author": "uanime"
       }
     ]
   },
@@ -5060,12 +5246,12 @@
     "hikka_url": "https://hikka.io/anime/bleach-sennen-kessen-hen-soukoku-tan-1afb16",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999577/бліч_війна_2_iuw3xc.jpg",
-        "author": ""
-      },
-      {
         "url": "Постери/Авторські/uaposters/Бліч ТКВ - Конфлікт.webp",
         "author": "uaposters"
+      },
+      {
+        "url": "Постери/Невідомо/бліч_війна_2_iuw3xc.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -11226,8 +11412,8 @@
     "hikka_url": "https://hikka.io/anime/bleach-sennen-kessen-hen-72c9ca",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999577/бліч_війна_abjuzy.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/бліч_війна_abjuzy.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -11539,6 +11725,10 @@
   {
     "hikka_url": "https://hikka.io/anime/jujutsu-kaisen-shimetsu-kaiyuu-b498eb",
     "posters": [
+      {
+        "url": "Постери/Авторські/uaposters/Магічна битва 3.webp",
+        "author": "uaposters"
+      },
       {
         "url": "Постери/Авторські/Від Олехандро/jujutsu kaisen 3.1.webp",
         "author": "Олехандро"
@@ -12654,7 +12844,7 @@
         "author": "Mikai"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1740128398/%D0%BC%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE-%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BD%D0%B0_%D1%81%D0%BE%D0%B4%D0%BE%D0%B2%D0%B0_2_p6qupw.jpg",
+        "url": "медово-лимонна_содова_2_p6qupw",
         "author": ""
       }
     ]
@@ -14226,6 +14416,10 @@
     "hikka_url": "https://hikka.io/anime/ooi-tonbo-2nd-season-7fa2ef",
     "posters": [
       {
+        "url": "Постери/Авторські/uaposters/Агов, Томбо! (2 сезон).webp",
+        "author": "uaposters"
+      },
+      {
         "url": "Постери/Авторські/uaposters/Гей, Тонбо.webp",
         "author": "uaposters"
       }
@@ -14239,7 +14433,7 @@
         "author": "Лунсар"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938680/Вона та її кіт s3kpty.jpg",
+        "url": "Вона_та_її_кіт_s3kpty",
         "author": "Невідомо"
       }
     ]
@@ -14314,8 +14508,8 @@
     "hikka_url": "https://hikka.io/anime/bleach-sennen-kessen-hen-ketsubetsu-tan-b006b8",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999577/Бліч_війна_1_u0ctiu.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Бліч_війна_1_u0ctiu.webp",
+        "author": "Невідомо"
       },
       {
         "url": "Постери/Авторські/uaposters/Бліч. ТКВ.Прощання (2 версія).webp",
@@ -14512,10 +14706,10 @@
     "posters": [
       {
         "url": "Постери/Авторські/Гуртом/or_627610b_139.webp",
-        "author": "Лунсар"
+        "author": "gnick1"
       },
       {
-        "url": "Постери/Авторські/Гуртом/kinopoisk.ru-wonderful-days-627612_458.webp",
+        "url": "Постери/Авторські/Гуртом/wonderful-days-627612_458.webp",
         "author": "Лунсар"
       }
     ]
@@ -14540,11 +14734,11 @@
         "author": "uaposters"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938678/Щоденник_аптекарки_lc22bb.jpg",
+        "url": "Щоденник_аптекарки_lc22bb",
         "author": ""
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734096241/%D0%BC%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3_%D1%82%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%86%D1%96_2_zaiu3r.png",
+        "url": "монолог_травниці_2_zaiu3r",
         "author": ""
       }
     ]
