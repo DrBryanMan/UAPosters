@@ -1,6 +1,4 @@
-// const imgpath = "https://raw.githubusercontent.com/DrBryanMan/UAPosters/main/"
-// const AnimeTitlesDB = "https://raw.githubusercontent.com/DrBryanMan/CPRcatalog/main/json/AnimeTitlesDB.json"
-const AnimeTitlesDB = "/AnimeTitlesDB.json"
+const AnimeTitlesDB = "https://raw.githubusercontent.com/DrBryanMan/CPRcatalog/main/json/AnimeTitlesDB.json"
 const imgback = 'data:image/svg+xml;charset=UTF-8,%3Csvg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 100 100"%3E%3Crect fill="%23f5f5f5" width="100" height="100"/%3E%3Cpath fill="%23999" d="M36 33h28v34H36z"/%3E%3Cpath fill="%23fff" d="M50 39a6 6 0 1 1 0 12 6 6 0 0 1 0-12z"/%3E%3Cpath fill="%23999" d="M58 65l-16-16v16z"/%3E%3C/svg%3E'
 
 // Основні елементи
