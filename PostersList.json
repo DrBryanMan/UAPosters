@@ -18,28 +18,32 @@
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/ginga-tetsudou-no-yoru-c10532",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Ginga Tetsudou no Yoru.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/senyoku-no-sigrdrifa-552292",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
-        "author": "Олехандро"
+        "url": "Постери/Авторські/Окремі/Senyoku no Sigrdrifa 2.webp",
+        "author": "Дядько Ґрей 123"
+      },
+      {
+        "url": "Постери/Авторські/Окремі/Senyoku no Sigrdrifa.webp",
+        "author": "Дядько Ґрей"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/lupin-iii-babylon-no-ougon-densetsu-1f7bd4",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Lupin III Babylon no Ougon Densetsu.webp",
         "author": "Олехандро"
       }
     ]
@@ -3556,8 +3560,8 @@
     "hikka_url": "https://hikka.io/anime/haiyore-nyaruko-san-df1a02",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308625/Haiyore_Nyaruko-san_jkyhm3.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Otaku-First/Haiyore_Nyaruko-san_jkyhm3.webp",
+        "author": "Otaku-First"
       }
     ]
   },
@@ -3641,8 +3645,8 @@
     "hikka_url": "https://hikka.io/anime/inukami-a96e1c",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308647/Inukami_wdmofm.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Inukami.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -4976,7 +4980,12 @@
       {
         "url": "Постери/Авторські/Гуртом/vona-dovershena-zbroya.-nsha-p-snya-kokhannya.webp",
         "author": "Лунсар"
-      },
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/saishuu-heiki-kanojo-e75157",
+    "posters": [
       {
         "url": "Постери/Авторські/Гуртом/vona-dovershena-zbroya.webp",
         "author": "Лунсар"
@@ -9623,7 +9632,7 @@
     "hikka_url": "https://hikka.io/anime/appare-ranman-9b520b",
     "posters": [
       {
-        "url": "Постери/Авторські/Пан Олександр/v1733308661/Appare_Ranman_okobtl.jpg",
+        "url": "Постери/Авторські/Пан Олександр/Appare_Ranman_okobtl.webp",
         "author": "Пан Олександр"
       }
     ]
