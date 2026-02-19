@@ -2,6 +2,7 @@
 *.py
 *.json
 *.js
+*.txt
 filterAnime.js
 
 # Папки

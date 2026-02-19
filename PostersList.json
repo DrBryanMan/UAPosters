@@ -3,8 +3,8 @@
     "hikka_url": "",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
-        "author": "Олехандро"
+        "url": "Постери/Авторські/uaposters/.webp",
+        "author": "uaposters"
       }
     ]
   },
@@ -18,46 +18,73 @@
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/kirio-fanclub-64f24c",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/uaposters/Фан-клуб Кіріо.webp",
+        "author": "uaposters"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/nippon-sangoku-282b30",
+    "posters": [
+      {
+        "url": "Постери/Авторські/uaposters/Японскькі троєцарства.webp",
+        "author": "uaposters"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/otaku-ni-yasashii-gal-wa-inai-ce8632",
+    "posters": [
+      {
+        "url": "Постери/Авторські/uaposters/Хіба_ґяру_не_можуть_дружити_з_отаку.webp",
+        "author": "uaposters"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi-9c6b22",
+    "posters": [
+      {
+        "url": "Постери/Авторські/uaposters/ЗануднийСтаростаТаСтаршокласниця.webp",
+        "author": "uaposters"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/reincarnation-no-kaben-4c0186",
+    "posters": [
+      {
+        "url": "Постери/Авторські/uaposters/Пелюстки реінкарнації.webp",
+        "author": "uaposters"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/mata-korosarete-shimatta-no-desu-ne-tantei-sama-677a50",
+    "posters": [
+      {
+        "url": "Постери/Авторські/uaposters/ЗновуВбилиПанеДетективе.webp",
+        "author": "uaposters"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/dragon-ball-movie-1-shen-long-no-densetsu-566c84",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Від Олехандро/Dragon Ball Curse of the Blood Rubies.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/ai-shoujo-pollyanna-story-specials-a0dc66",
     "posters": [
       {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
-        "author": "Олехандро"
-      }
-    ]
-  },
-  {
-    "hikka_url": "",
-    "posters": [
-      {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
-        "author": "Олехандро"
-      }
-    ]
-  },
-  {
-    "hikka_url": "",
-    "posters": [
-      {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
-        "author": "Олехандро"
-      }
-    ]
-  },
-  {
-    "hikka_url": "",
-    "posters": [
-      {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Ai Shoujo Pollyanna Monogatari 1.1.webp",
         "author": "Олехандро"
       }
     ]
