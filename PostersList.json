@@ -1,55 +1,117 @@
 [
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/kyoushoku-soukou-guyver-fac557",
     "posters": [
       {
-        "url": "Постери/Авторські/uaposters/.webp",
-        "author": "uaposters"
-      }
-    ]
-  },
-  {
-    "hikka_url": "",
-    "posters": [
-      {
-        "url": "Постери/Авторські/Від Олехандро/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Kyoushoku Soukou Guyver.png.webp",
         "author": "Олехандро"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/shin-mitsubachi-maya-no-bouken-2bfe5c",
     "posters": [
       {
-        "url": "Постери/Авторські/uaposters/.webp",
+        "url": "Постери/Авторські/Від Олехандро/Mitsubachi Maya no Bouken 2.1.png.webp",
+        "author": "Олехандро"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/mitsubachi-maya-no-bouken-14556e",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Від Олехандро/Mitsubachi Maya no Bouken 1.1.webp",
+        "author": "Олехандро"
+      },
+      {
+        "url": "Постери/Авторські/Від Олехандро/Mitsubachi Maya no Bouken 1.2.webp",
+        "author": "Олехандро"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/lupin-iii-pilot-film-1978-d024b5",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Від Олехандро/lupin III pilot(1979).webp",
+        "author": "Олехандро"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/lupin-iii-pilot-film-eb7899",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Від Олехандро/lupin III pilot-1.webp",
+        "author": "Олехандро"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-97a938",
+    "posters": [
+      {
+        "url": "Постери/Авторські/uaposters/100 дівчат 3.webp",
         "author": "uaposters"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha-4f5694",
     "posters": [
       {
-        "url": "Постери/Авторські/uaposters/.webp",
+        "url": "Постери/Авторські/uaposters/Найсильніший ар’єргард світу.webp",
         "author": "uaposters"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/the-ribbon-hero-41a8f1",
     "posters": [
       {
-        "url": "Постери/Авторські/uaposters/.webp",
+        "url": "Постери/Авторські/uaposters/Стрічкова героїня.webp",
         "author": "uaposters"
       }
     ]
   },
   {
-    "hikka_url": "",
+    "hikka_url": "https://hikka.io/anime/otome-kaijuu-carameliser-38ce1c",
     "posters": [
       {
-        "url": "Постери/Авторські/uaposters/.webp",
+        "url": "Постери/Авторські/uaposters/Карамелізована дівчина-кайджю.webp",
         "author": "uaposters"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/bleach-sennen-kessen-hen-kashin-tan-3ce3e3",
+    "posters": [
+      {
+        "url": "Постери/Авторські/uaposters/Бліч_Тисячолітня_кривава_війна_Лихо.webp",
+        "author": "uaposters"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/black-torch-dd361a",
+    "posters": [
+      {
+        "url": "Постери/Авторські/uaposters/Чорний смолоскип.webp",
+        "author": "uaposters"
+      }
+    ]
+  },
+  {
+    "hikka_url": "https://hikka.io/anime/mahou-shoujo-ore-873b06",
+    "posters": [
+      {
+        "url": "Постери/Авторські/Окремі/mahou-shoujo-ore-873b06.webp",
+        "author": "DrBryan"
+      },
+      {
+        "url": "Постери/Авторські/Окремі/mahou-shoujo-ore-873b06-2.webp",
+        "author": "DrBryan"
       }
     ]
   },
@@ -956,15 +1018,6 @@
     "posters": [
       {
         "url": "Постери/Авторські/uaposters/Полум'яні вогнеборці 3.webp",
-        "author": "uaposters"
-      }
-    ]
-  },
-  {
-    "hikka_url": "https://hikka.io/anime/jujutsu-kaisen-shimetsu-kaiyuu-b498eb",
-    "posters": [
-      {
-        "url": "Постери/Авторські/uaposters/Магічна битва 3 (2 версія).webp",
         "author": "uaposters"
       }
     ]
@@ -3842,8 +3895,8 @@
         "author": "uaposters"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563610/Моя_крихітна_семпай_xbi678.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/Моя_крихітна_семпай_xbi678.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -3851,8 +3904,8 @@
     "hikka_url": "https://hikka.io/anime/code-geass-hangyaku-no-lelouch-cb6919",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999576/Код_Ґіасс_Повстання_Лелуша_vzwr57.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Код_Ґіасс_Повстання_Лелуша_vzwr57.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -4168,7 +4221,7 @@
     "hikka_url": "https://hikka.io/anime/trigun-e8a4d9",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308627/Trigun_stlp7w.jpg",
+        "url": "Постери/Авторські/Гуртом/Trigun_stlp7w.webp",
         "author": ""
       }
     ]
@@ -4177,8 +4230,8 @@
     "hikka_url": "https://hikka.io/anime/koufuku-graffiti-9a1aad",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308648/Koufuku_Graffiti_pmdhm3.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Koufuku_Graffiti_pmdhm3.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -4200,7 +4253,7 @@
     "hikka_url": "https://hikka.io/anime/isekai-shokudou-492d42",
     "posters": [
       {
-        "url": "Постери/Авторські/Пан Олександр/на_толоці.webp",
+        "url": "Постери/Авторські/Пан Олександр/Isekai Shokudou.webp",
         "author": "Пан Олександр"
       }
     ]
@@ -4614,8 +4667,8 @@
     "hikka_url": "https://hikka.io/anime/x-densha-de-ikou-719c84",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308626/X_Densha_de_Ikou_lxhnoo.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/X_Densha_de_Ikou_lxhnoo.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -4850,8 +4903,8 @@
     "hikka_url": "https://hikka.io/anime/hamatora-the-animation-e58ee3",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733313986/Hamatora_jiblkz.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Hamatora_jiblkz.webp",
+        "author": "Пан Олександр"
       },
       {
         "url": "Постери/Авторські/Гуртом/khamatora.webp",
@@ -4930,8 +4983,9 @@
         "author": "uaposters"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1729854646/рівняючись_на_чарівних_дівчат_cjrmg6.jpg",
-        "author": ""
+        "url": "Постери/Авторські/UaAniSub/рівняючись_на_чарівних_дівчат_cjrmg6.webp",
+        "team": "UaAniSub",
+        "author": "honeychan"
       }
     ]
   },
@@ -5293,11 +5347,11 @@
     "hikka_url": "https://hikka.io/anime/byousoku-5-centimeter-b7601f",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938679/5_сантиметрів_nhkor7.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/5_сантиметрів_nhkor7.webp",
+        "author": "Невідомо"
       },
       {
-        "url": "5_сантиметрів_2_oyn7so",
+        "url": "Постери/Авторські/Окремі/5_сантиметрів_2_oyn7so.webp",
         "author": "uanime"
       }
     ]
@@ -5380,8 +5434,8 @@
     "hikka_url": "https://hikka.io/anime/yuri-on-ice-8ede81",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308626/Yuri_on_Ice_qrsdhx.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Yuri_on_Ice_qrsdhx.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -5420,8 +5474,9 @@
     "hikka_url": "https://hikka.io/anime/edens-zero-c81655",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999611/Нульовий_Едем_irwhuf.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Нульовий_Едем_irwhuf.webp",
+        "team": "Clan Kaizoku",
+        "author": "Shmyga"
       }
     ]
   },
@@ -5465,8 +5520,8 @@
     "hikka_url": "https://hikka.io/anime/ai-no-kusabi-0e057f",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999576/Клин_кохання_eidj2r.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Otaku-First/Клин_кохання_eidj2r.webp",
+        "author": "Otaku-First"
       }
     ]
   },
@@ -5640,8 +5695,8 @@
         "author": "Олехандро"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733314593/Маг-читер_в_іншому_світі_leyt19.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Otaku-First/Маг-читер_в_іншому_світі_leyt19.webp",
+        "author": "Otaku-First"
       }
     ]
   },
@@ -5688,7 +5743,7 @@
     "hikka_url": "https://hikka.io/anime/made-in-abyss-f22039",
     "posters": [
       {
-        "url": "Постери/Авторські/Пан Олександр/на толоці.webp",
+        "url": "Постери/Авторські/Пан Олександр/made-in-abyss-e05d5be2acfe.webp",
         "author": "Пан Олександр"
       }
     ]
@@ -5714,8 +5769,8 @@
     "hikka_url": "https://hikka.io/anime/fateprototype-99ea22",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938751/Доля_Прототип_zamaag.png",
-        "author": ""
+        "url": "Постери/Невідомо/Доля_Прототип_zamaag.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -5978,8 +6033,9 @@
     "hikka_url": "https://hikka.io/anime/manaria-friends-ee111c",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563466/Манаріянські_друзі_oxlstn.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Манаріянські_друзі_oxlstn.webp",
+        "team": "Clan Kaizoku",
+        "author": "DareDUa"
       }
     ]
   },
@@ -6000,8 +6056,8 @@
     "hikka_url": "https://hikka.io/anime/neon-genesis-evangelion-the-end-of-evangelion-b51a52",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308662/End_of_Evangelion_glr7st.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/End_of_Evangelion_glr7st.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -6071,7 +6127,7 @@
     "hikka_url": "https://hikka.io/anime/ore-tsushima-88c2b0",
     "posters": [
       {
-        "url": "на толоці",
+        "url": "Постери/Авторські/Clan Kaizoku/TUSMA-v10.webp",
         "team": "Clan Kaizoku",
         "author": "Fanat22012"
       }
@@ -6099,7 +6155,7 @@
     "hikka_url": "https://hikka.io/anime/gunslinger-girl-31bae2",
     "posters": [
       {
-        "url": "на толоці",
+        "url": "Постери/Авторські/Пан Олександр/Дівчинка-вбивця_kocm7y.webp",
         "author": "Пан Олександр"
       }
     ]
@@ -6265,8 +6321,8 @@
     "hikka_url": "https://hikka.io/anime/one-piece-film-red-d16be2",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938677/Ван_піс_фільм_Червоний_zdumso.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Ван_піс_фільм_Червоний_zdumso.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -6274,8 +6330,8 @@
     "hikka_url": "https://hikka.io/anime/fruits-basket-2nd-season-cc2931",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1729854219/кошик_фруктів_2_w2yk8f.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/кошик_фруктів_2_w2yk8f.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -6345,8 +6401,8 @@
     "hikka_url": "https://hikka.io/anime/slayers-0e8d5d",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308646/Рубаки_bspk2a.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Рубаки_bspk2a.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -6584,8 +6640,9 @@
     "hikka_url": "https://hikka.io/anime/subarashiki-kono-sekai-the-animation-59734a",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563467/Subarashiki_Kono_Sekai_The_Animation_pv78ff.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Subarashiki_Kono_Sekai_The_Animation_pv78ff.webp",
+        "team": "Clan Kaizoku",
+        "author": "Fanat22012"
       }
     ]
   },
@@ -6605,8 +6662,8 @@
         "author": "uaposters"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1729685423/НевизнанийАкадемієюКорольДемонів_2Сезон_vq80hz.jpg",
-        "author": ""
+        "url": "Постери/Авторські/uaposters/НевизнанийАкадемієюКорольДемонів_2Сезон_vq80hz.webp",
+        "author": "uaposters"
       }
     ]
   },
@@ -6635,12 +6692,12 @@
         "author": "Олехандро"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563466/Сім_Смертних_Гріхів._Відродження_заповідей_x7epbu.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Сім_Смертних_Гріхів._Відродження_заповідей_x7epbu.webp",
+        "author": "Пан Олександр"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563630/Сім_Смертних_Гріхів_2_rb1juz.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Сім_Смертних_Гріхів_2_rb1juz.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -6754,8 +6811,8 @@
     "hikka_url": "https://hikka.io/anime/shingeki-no-bahamut-genesis-bdac59",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308625/Лють_Багамута_lnmakk.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Лють_Багамута_lnmakk.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -6785,8 +6842,9 @@
     "hikka_url": "https://hikka.io/anime/kekkai-sensen-b3eaa9",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563466/Вартові_кривавого_бар_єру_zd42p7.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Вартові_кривавого_бар_єру_zd42p7.webp",
+        "team": "Clan Kaizoku",
+        "author": "Surgeon"
       }
     ]
   },
@@ -6794,8 +6852,9 @@
     "hikka_url": "https://hikka.io/anime/hoshi-no-koe-a505c4",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938679/Голос_далекої_зірки_arpjap.png",
-        "author": ""
+        "url": "Постери/Від команд/UAMAX/Голос_далекої_зірки_arpjap.webp",
+        "team": "UAMAX",
+        "author": "Samotar"
       }
     ]
   },
@@ -6812,8 +6871,8 @@
     "hikka_url": "https://hikka.io/anime/zombieland-saga-3324cf",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563630/Zombieland_Saga_n84jjo.png",
-        "author": ""
+        "url": "Постери/Авторські/Otaku-First/Zombieland_Saga_n84jjo.webp",
+        "author": "Otaku-First"
       }
     ]
   },
@@ -6980,8 +7039,8 @@
     "hikka_url": "https://hikka.io/anime/one-piece-movie-14-stampede-379658",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563631/Панічна_Втеча_iwy81j.png",
-        "author": ""
+        "url": "Постери/Авторські/Otaku-First/Панічна_Втеча_iwy81j.webp",
+        "author": "Otaku-First"
       }
     ]
   },
@@ -7001,6 +7060,11 @@
         "url": "Постери/Авторські/Otaku-First/Улісс. Жанна д Арк і Лицар-Алхімік hvwl7z.webp",
         "team": "VRdub",
         "author": "Otaku-First"
+      },
+      {
+        "url": "Постери/Авторські/Otaku-First/Улісс. Жанна д Арк і Лицар-Алхімік.webp",
+        "team": "VRdub",
+        "author": "Otaku-First"
       }
     ]
   },
@@ -7008,8 +7072,8 @@
     "hikka_url": "https://hikka.io/anime/yamada-kun-to-lv999-no-koi-wo-suru-5955d4",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938678/Закохати_Ямаду_до_999_рівня_lz8a7p.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Закохати_Ямаду_до_999_рівня_lz8a7p.webp",
+        "author": "Невідомо"
       },
       {
         "url": "Постери/Авторські/uaposters/Історія_мого_кохання_до_Ямади_на_999_рівні.webp",
@@ -7112,8 +7176,8 @@
     "hikka_url": "https://hikka.io/anime/aya-to-majo-59d3a3",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563465/Ая_та_відьма_ybl5zj.jpg",
-        "author": ""
+        "url": "Постери/Локалізовані/Ая_та_відьма_ybl5zj.webp",
+        "author": "Локалізовані"
       }
     ]
   },
@@ -7152,8 +7216,8 @@
     "hikka_url": "https://hikka.io/anime/dragon-half-6803d2",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938679/Напівдракон_sqqztq.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Напівдракон_sqqztq.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -7244,12 +7308,12 @@
     "hikka_url": "https://hikka.io/anime/sayonara-no-asa-ni-yakusoku-no-hana-wo-kazarou-dce7bd",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999576/Прикрась_прощальний_ранок_квітами_надії_ocl1ej.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Прикрась_прощальний_ранок_квітами_надії_ocl1ej.webp",
+        "author": "Невідомо"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999576/Прикрась_прощальний_ранок_квітами_надії_2_yenrtd.jpg",
-        "author": ""
+        "url": "Постери/Локалізовані/Прикрась_прощальний_ранок_квітами_надії_2_yenrtd.webp",
+        "author": "Локалізовані"
       }
     ]
   },
@@ -7337,8 +7401,9 @@
     "hikka_url": "https://hikka.io/anime/hige-wo-soru-soshite-joshikousei-wo-hirou-683770",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938678/Я_поголився_yv4vik.jpg",
-        "author": ""
+        "url": "Постери/Від команд/Різні/2107252020592760_f0_0_Shirifugen.webp",
+        "team": "Shirifugen",
+        "author": "Невідомо"
       }
     ]
   },
@@ -7346,8 +7411,8 @@
     "hikka_url": "https://hikka.io/anime/ssssgridman-9e9fd7",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563467/SSSS.Gridman_bfquf4.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Otaku-First/SSSS.Gridman_bfquf4.webp",
+        "author": "Otaku-First"
       }
     ]
   },
@@ -7481,8 +7546,9 @@
     "hikka_url": "https://hikka.io/anime/ookami-to-koushinryou-shinsaku-anime-350e01",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1729854648/Вовчиця_та_спеції_wrx2ty.jpg",
-        "author": ""
+        "url": "Постери/Авторські/UaAniSub/Вовчиця_та_спеції_wrx2ty.webp",
+        "team": "UaAniSub",
+        "author": "honeychan"
       }
     ]
   },
@@ -7490,8 +7556,9 @@
     "hikka_url": "https://hikka.io/anime/dragon-ball-e24caa",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999578/Яйця_Дракона_ed4xvv.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Яйця_Дракона_ed4xvv.webp",
+        "team": "Clan Kaizoku",
+        "author": "IT IS ME1987"
       }
     ]
   },
@@ -7596,8 +7663,8 @@
         "author": "Лунсар"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999576/Код_Ґіасс_Повстання_Лелуша_2_zkhmfe.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Код_Ґіасс_Повстання_Лелуша_2_zkhmfe.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -7623,8 +7690,9 @@
     "hikka_url": "https://hikka.io/anime/pokemon-sun-moon-c318c6",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308676/Покемон_Сонце_та_Місяць_j4vfpq.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/Покемон_Сонце_та_Місяць_j4vfpq.webp",
+        "team": "Робота Голосом",
+        "author": "Невідомо"
       }
     ]
   },
@@ -7686,8 +7754,8 @@
     "hikka_url": "https://hikka.io/anime/giovanni-no-shima-0c580b",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308647/Giovanni_no_Shima_p9bhvx.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Giovanni_no_Shima_p9bhvx.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -7734,8 +7802,8 @@
         "author": "uaposters"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1729707592/АтакаТитанівФінал_ds1gzn.png",
-        "author": ""
+        "url": "Постери/Авторські/uaposters/АтакаТитанівФінал_ds1gzn.webp",
+        "author": "uaposters"
       }
     ]
   },
@@ -7834,8 +7902,8 @@
         "author": "uaposters"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1729685425/НевизнанийАкадемієюКорольДемонів_2Сезон_версія2_nf3rko.jpg",
-        "author": ""
+        "url": "Постери/Авторські/uaposters/НевизнанийАкадемієюКорольДемонів_2Сезон_версія2_nf3rko.webp",
+        "author": "uaposters"
       }
     ]
   },
@@ -7887,8 +7955,9 @@
     "hikka_url": "https://hikka.io/anime/dead-leaves-216336",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1740121431/10051623564240659_f0_0_srcor0.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/dead-leaves.webp",
+        "team": "Патлаті Продакшнз",
+        "author": "Невідомо"
       }
     ]
   },
@@ -7914,8 +7983,9 @@
     "hikka_url": "https://hikka.io/anime/flcl-progressive-402b87",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563465/ФЛКЛ_Проґресів_ddzd86.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/ФЛКЛ_Проґресів_ddzd86.webp",
+        "team": "Clan Kaizoku",
+        "author": "Невідомо"
       }
     ]
   },
@@ -7954,8 +8024,9 @@
     "hikka_url": "https://hikka.io/anime/kimi-to-boku-4c7d8d",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563465/Ти_і_я_jeyjyb.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Ти_і_я_jeyjyb.webp",
+        "team": "Clan Kaizoku",
+        "author": "toppi"
       }
     ]
   },
@@ -8012,8 +8083,8 @@
     "hikka_url": "https://hikka.io/anime/nerawareta-gakuen-d526d4",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308647/Школа_під_нападом_zhxuxw.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Школа_під_нападом_zhxuxw.jpg",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -8042,8 +8113,9 @@
     "hikka_url": "https://hikka.io/anime/ryuu-to-sobakasu-no-hime-7cd247",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563611/Ryuu_to_Sobakasu_no_Hime_ye6doz.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Ryuu_to_Sobakasu_no_Hime_ye6doz.webp",
+        "team": "Clan Kaizoku",
+        "author": "Surgeon"
       }
     ]
   },
@@ -8051,8 +8123,8 @@
     "hikka_url": "https://hikka.io/anime/paradox-live-the-animation-fc1a3a",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1729167128/Парадокс_Наживо_1_версія_csiwff.jpg",
-        "author": ""
+        "url": "Постери/Авторські/uaposters/Парадокс_Наживо_1_версія_csiwff.webp",
+        "author": "uaposters"
       },
       {
         "url": "Постери/Авторські/uaposters/Парадокс Наживо (2 версія).webp",
@@ -8177,8 +8249,8 @@
     "hikka_url": "https://hikka.io/anime/ergo-proxy-096caa",
     "posters": [
       {
-        "url": "https://posters.hurtom.com/albums/anime/ergo.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Гуртом/ergo.webp",
+        "author": "Гуртом"
       }
     ]
   },
@@ -8195,8 +8267,9 @@
     "hikka_url": "https://hikka.io/anime/shichigahama-de-mitsuketa-72877d",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999577/Я_знайшла_це_в_Шічіґахамі_zxhsqz.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/Я_знайшла_це_в_Шічіґахамі_QUAM_Project.webp",
+        "team": "QUAM Project",
+        "author": "wecrani"
       }
     ]
   },
@@ -8239,8 +8312,8 @@
     "hikka_url": "https://hikka.io/anime/fullmetal-alchemist-brotherhood-fc524a",
     "posters": [
       {
-        "url": "https://posters.hurtom.com/albums/anime/fullmetal-alchemist-brotherhood-full-.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Гуртом/fullmetal-alchemist-brotherhood-full-.webp",
+        "author": "Гуртом"
       }
     ]
   },
@@ -8257,8 +8330,8 @@
     "hikka_url": "https://hikka.io/anime/gleipnir-cae1d7",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999633/Ґлейпнір_ilffx9.png",
-        "author": ""
+        "url": "Постери/Авторські/Otaku-First/Ґлейпнір_ilffx9.webp",
+        "author": "Otaku-First"
       }
     ]
   },
@@ -8266,8 +8339,8 @@
     "hikka_url": "https://hikka.io/anime/kimitachi-wa-dou-ikiru-ka-f0a2b3",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308647/Як_ти_поживаєш_sw2n0d.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Як_ти_поживаєш_sw2n0d.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -8348,8 +8421,8 @@
         "author": "Олехандро"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938680/Асасінс_Прайд_f9qlbb.png",
-        "author": ""
+        "url": "Постери/Авторські/Otaku-First/Асасінс_Прайд_f9qlbb.webp",
+        "author": "Otaku-First"
       }
     ]
   },
@@ -8384,8 +8457,9 @@
     "hikka_url": "https://hikka.io/anime/buta-5127cb",
     "posters": [
       {
-        "url": "https://toloka.to/photos/201026221219556234_f0_0.png",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/201026221219556234_f0_0.webp",
+        "team": "MVP",
+        "author": "Шіві"
       }
     ]
   },
@@ -8441,8 +8515,8 @@
         "author": "uaposters"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563573/Переродження_найсильнішого_екзорциста_в_іншому_світі_afkmqr.webp",
-        "author": ""
+        "url": "Постери/Невідомо/Переродження_найсильнішого_екзорциста_в_іншому_світі_afkmqr.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -8477,8 +8551,8 @@
     "hikka_url": "https://hikka.io/anime/robin-hood-no-daibouken-fd10d9",
     "posters": [
       {
-        "url": "https://img.hurtom.com/i/2015/09/iGCgOw-wQRI.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/iGCgOw-wQRI.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -8544,8 +8618,8 @@
     "hikka_url": "https://hikka.io/anime/enen-no-shouboutai-ni-no-shou-94292d",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999576/Полум_яні_вогнеборці_2_rxq1x1.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Otaku-First/Полум_яні_вогнеборці_2_rxq1x1.webp",
+        "author": "Otaku-First"
       },
       {
         "url": "Постери/Авторські/Від Олехандро/fire force 2.1.webp",
@@ -8600,8 +8674,9 @@
     "hikka_url": "https://hikka.io/anime/doukyuusei-movie-d904da",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563610/Однокласники_eguyz3.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Однокласники_eguyz3.webp",
+        "team": "Clan Kaizoku",
+        "author": "bills spirit"
       }
     ]
   },
@@ -8648,8 +8723,9 @@
     "hikka_url": "https://hikka.io/anime/gyakuten-sekai-no-denchi-shoujo-2eb149",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999633/Енергодівча_з_паралельного_світу_c86yaq.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Енергодівча_з_паралельного_світу_c86yaq.webp",
+        "team": "Clan Kaizoku",
+        "author": "Fanat22012"
       }
     ]
   },
@@ -8749,8 +8825,9 @@
     "hikka_url": "https://hikka.io/anime/haikara-san-ga-tooru-movie-1-benio-hana-no-17-sai-777837",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563611/Прогресивна_панянка._Беніо_yferog.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Прогресивна_панянка._Беніо_yferog.webp",
+        "team": "Clan Kaizoku",
+        "author": "Fanat22012"
       }
     ]
   },
@@ -8771,8 +8848,9 @@
     "hikka_url": "https://hikka.io/anime/heion-sedai-no-idaten-tachi-8a14d6",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999633/Богам_Ідатен_відомий_лише_мир_usngev.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Богам_Ідатен_відомий_лише_мир_usngev.webp",
+        "team": "Clan Kaizoku",
+        "author": "Surgeon"
       }
     ]
   },
@@ -8798,8 +8876,9 @@
     "hikka_url": "https://hikka.io/anime/shoukoku-no-altair-3b23fa",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563572/Shoukoku_no_Altair_byrovt.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Shoukoku_no_Altair_byrovt.webp",
+        "team": "Clan Kaizoku",
+        "author": "wecrani"
       }
     ]
   },
@@ -8816,8 +8895,9 @@
     "hikka_url": "https://hikka.io/anime/madan-no-ou-to-vanadis-409f97",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563465/Madan_no_Ou_to_Vanadis_g2kzky.png",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/Madan_no_Ou_to_Vanadis_g2kzky.webp",
+        "team": "Akoman UA",
+        "author": "Linatan"
       }
     ]
   },
@@ -8825,8 +8905,9 @@
     "hikka_url": "https://hikka.io/anime/godzilla-sp-6fa647",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308625/Godzilla_Singular_Point_a6pouc.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Godzilla_Singular_Point_no8cq8.webp",
+        "team": "Clan Kaizoku",
+        "author": "Fanat22012"
       }
     ]
   },
@@ -8860,8 +8941,8 @@
     "hikka_url": "https://hikka.io/anime/tenchi-muyou-ryououki-2nd-season-8e3c01",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308662/Тенчі_не_потрібен_qxxf3n.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Тенчі_не_потрібен_qxxf3n.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -8916,8 +8997,8 @@
     "hikka_url": "https://hikka.io/anime/bungaku-shoujo-kyou-no-oyatsu-hatsukoi-36eb91",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308660/Bungaku_Shoujo_lq0jad.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Bungaku_Shoujo_lq0jad.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -8958,15 +9039,6 @@
     ]
   },
   {
-    "hikka_url": "https://hikka.io/anime/kimi-wo-aishita-hitori-no-boku-e-c10842",
-    "posters": [
-      {
-        "url": "https://img.hurtom.com/i/2024/09/photo_2024-09-13_22-33-51.jpg",
-        "author": ""
-      }
-    ]
-  },
-  {
     "hikka_url": "https://hikka.io/anime/the-fable-1d0216",
     "posters": [
       {
@@ -8996,8 +9068,12 @@
     "hikka_url": "https://hikka.io/anime/pale-cocoon-22108b",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999577/Блідий_кокон_pnzgfo.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Блідий_кокон_pnzgfo.webp",
+        "author": "Пан Олександр"
+      },
+      {
+        "url": "Постери/Авторські/Пан Олександр/blidyy_kokon_ukr_193.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -9005,8 +9081,9 @@
     "hikka_url": "https://hikka.io/anime/ahiru-no-sora-8cf979",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1730729799/ZOBRAZENNY_2021-06-04_222406_tsvwha.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/ZOBRAZENNY_2021-06-04_222406_tsvwha.webp",
+        "team": "Clan Kaizoku",
+        "author": "Орест Лук'янчук"
       }
     ]
   },
@@ -9068,8 +9145,9 @@
     "hikka_url": "https://hikka.io/anime/koi-wa-sekai-seifuku-no-ato-de-d4ad8e",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563465/Кохання_після_Поневолення_Світу_shcs4y.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Кохання_після_Поневолення_Світу_shcs4y.webp",
+        "team": "Clan Kaizoku",
+        "author": "IT IS ME1987"
       }
     ]
   },
@@ -9261,7 +9339,7 @@
     "hikka_url": "https://hikka.io/anime/fruits-basket-the-final-171740",
     "posters": [
       {
-        "url": "на толоці",
+        "url": "Постери/Авторські/Пан Олександр/кошик_фруктів_3_whkqud.webp",
         "author": "Пан Олександр"
       }
     ]
@@ -9424,8 +9502,9 @@
     "hikka_url": "https://hikka.io/anime/osake-wa-fuufu-ni-natte-kara-e851d9",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308646/Любов_як_коктейль_tvom23.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Робота Голосом/Любов_як_коктейль_tvom23.webp",
+        "team": "Робота Голосом",
+        "author": "Elfes"
       }
     ]
   },
@@ -9477,8 +9556,9 @@
     "hikka_url": "https://hikka.io/anime/mahouka-koukou-no-yuutousei-e413a9",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563611/Почесна_учениця_школи_магії_kagcdb.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Почесна_учениця_школи_магії_kagcdb.webp",
+        "team": "Clan Kaizoku",
+        "author": "Fanat22012"
       }
     ]
   },
@@ -9522,8 +9602,8 @@
     "hikka_url": "https://hikka.io/anime/ged-senki-ce2a0f",
     "posters": [
       {
-        "url": "https://img.hurtom.com/i/2021/12/Cover7353eefe2e917d61.md.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Cover7353eefe2e917d61.webp",
+        "author": "Невідомо"
       },
       {
         "url": "Постери/Авторські/Гуртом/Хроніки_Геда_x3lut0.webp",
@@ -9592,8 +9672,9 @@
     "hikka_url": "https://hikka.io/anime/poputepipikku-710af8",
     "posters": [
       {
-        "url": "https://toloka.to/photos/180329204802355998_f0_0.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/180329204802355998_f0_0.webp",
+        "team": "MVP",
+        "author": "ihabi"
       }
     ]
   },
@@ -9622,8 +9703,9 @@
     "hikka_url": "https://hikka.io/anime/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito-6f9b9d",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563467/Пригоди_аристократа_в_іншому_світі_e0itwz.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Пригоди_аристократа_в_іншому_світі_e0itwz.webp",
+        "team": "VRdub",
+        "author": "Невідомо"
       },
       {
         "url": "Постери/Авторські/uaposters/Пригоди шляхетного.webp",
@@ -9721,8 +9803,17 @@
         "author": "Олехандро"
       },
       {
-        "url": "https://toloka.to/photos/240219111909171082_f0_0.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/240219111909171082_f0_0.webp",
+        "team": "Mitsuruki",
+        "author": "AniSky"
+      },
+      {
+        "url": "Постери/Авторські/Окремі/240310151541242846_f0_0.webp",
+        "author": "TS"
+      },
+      {
+        "url": "Постери/Авторські/Гуртом/11042920351526758_f0_0.webp",
+        "author": "Гуртом"
       }
     ]
   },
@@ -9739,8 +9830,9 @@
     "hikka_url": "https://hikka.io/anime/umibe-no-etranger-b04542",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563573/Незнайомець_на_узбережжі_cv3riz.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Незнайомець_на_узбережжі_cv3riz.webp",
+        "team": "Clan Kaizoku",
+        "author": "bills spirit"
       }
     ]
   },
@@ -9815,8 +9907,14 @@
     "hikka_url": "https://hikka.io/anime/one-kagayaku-kisetsu-e-f23620",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938678/Один_Сезон_сяйва_znb08s.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Один_Сезон_сяйва_znb08s.webp",
+        "team": "Altron320",
+        "author": "Невідомо"
+      },
+      {
+        "url": "Постери/Невідомо/p60123sGexMevTaXAOqliGkuR0q.webp",
+        "team": "Altron320",
+        "author": "Невідомо"
       }
     ]
   },
@@ -9866,15 +9964,6 @@
       {
         "url": "Постери/Авторські/Гуртом/tavro-v-tru.webp",
         "author": "Лунсар"
-      }
-    ]
-  },
-  {
-    "hikka_url": "https://hikka.io/anime/juusen-battle-monsuno-2d119a",
-    "posters": [
-      {
-        "url": "Постери/Авторські/Otaku-First/monsuno-by-otaku-first.webp",
-        "author": "Otaku-First"
       }
     ]
   },
@@ -9942,16 +10031,16 @@
         "author": "Візуали"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1729164954/photo_2024-10-16_11-34-03_k8vvse.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Візуали/photo_2024-10-16_11-34-03_k8vvse.webp",
+        "author": "Візуали"
       },
       {
         "url": "Постери/Авторські/uaposters/Сходження_героя_щита_3_сезон_2_версія.webp",
         "author": "uaposters"
       },
       {
-        "url": "Постери/Авторські/Візуали/сходження в герої щита 3.webp",
-        "author": "Візуали"
+        "url": "Постери/Авторські/uaposters/сходження в герої щита 3.webp",
+        "author": "uaposters"
       },
       {
         "url": "Постери/Авторські/Від Олехандро/tate no yuusha no nariagari 3.1.webp",
@@ -10002,9 +10091,8 @@
     "hikka_url": "https://hikka.io/anime/isekai-nonbiri-nouka-36e37d",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308625/фермерське_життя_gw26yh.jpg",
-        "team": "СКО",
-        "author": ""
+        "url": "Постери/Невідомо/фермерське_життя_gw26yh.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -10012,7 +10100,7 @@
     "hikka_url": "https://hikka.io/anime/hajimete-no-gal-abdb35",
     "posters": [
       {
-        "url": "Постери/Авторські/Пан Олександр/Моя перша Гяру ls1dmi.jpg",
+        "url": "Постери/Авторські/Пан Олександр/Моя_перша_Гяру_ls1dmi.jpg",
         "team": "Dzuski",
         "author": "Пан Олександр"
       }
@@ -10040,8 +10128,9 @@
     "hikka_url": "https://hikka.io/anime/domestic-na-kanojo-105fd8",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563573/Domestic_na_Kanojo_ig1baz.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Domestic_na_Kanojo_ig1baz.webp",
+        "team": "Clan Kaizoku",
+        "author": "Kisske"
       }
     ]
   },
@@ -10058,8 +10147,8 @@
     "hikka_url": "https://hikka.io/anime/cyberpunk-edgerunners-33f8c6",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1735829726/Кіберпанк_wa0fah.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Кіберпанк_wa0fah.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -10067,8 +10156,9 @@
     "hikka_url": "https://hikka.io/anime/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai-fc45c4",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563466/Заради моєї донечки я навіть Володаря Демонів здолаю wppyom.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/Заради моєї донечки я навіть Володаря Демонів здолаю wppyom.webp",
+        "team": "VRdub",
+        "author": "K0wbassa"
       }
     ]
   },
@@ -10112,8 +10202,14 @@
     "hikka_url": "https://hikka.io/anime/ookami-kodomo-no-ame-to-yuki-5067ed",
     "posters": [
       {
-        "url": "https://toloka.to/photos/2012032341201026488_f0_0.png",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/2012032341201026488_f0_0.webp",
+        "team": "MVP",
+        "author": "ihabi"
+      },
+      {
+        "url": "Постери/Від команд/Різні/130611225330355998_f0_0_MVP.webp",
+        "team": "MVP",
+        "author": "ihabi"
       },
       {
         "url": "Постери/Авторські/Гуртом/vovchenyata-ame-ta-yuk-.webp",
@@ -10230,8 +10326,8 @@
     "hikka_url": "https://hikka.io/anime/cardfight-vanguard-2b0261",
     "posters": [
       {
-        "url": "https://toloka.to/photos/240716222825959293_f0_0.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/240716222825959293_f0_0.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -10248,8 +10344,9 @@
     "hikka_url": "https://hikka.io/anime/megane-na-kanojo-287961",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563630/Дівчатка_в_окулярах_vfcfym.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Дівчатка_в_окулярах_vfcfym.webp",
+        "team": "Fairy Dub",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -10286,8 +10383,8 @@
     "hikka_url": "https://hikka.io/anime/ikkitousen-441bd2",
     "posters": [
       {
-        "url": "https://posters.hurtom.com/albums/anime/ikki_tosen-1_609.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Гуртом/ikki_tosen-1_609.webp",
+        "author": "Гуртом"
       }
     ]
   },
@@ -10356,8 +10453,8 @@
     "hikka_url": "https://hikka.io/anime/black-blood-brothers-2963d6",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1740121906/1bb5d349f42400e06eca0180962ec069_gjdhl5.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/1bb5d349f42400e06eca0180962ec069_gjdhl5.webp",
+        "author": "Зореліт"
       }
     ]
   },
@@ -10365,8 +10462,9 @@
     "hikka_url": "https://hikka.io/anime/shikanoko-nokonoko-koshitantan-f0b0a6",
     "posters": [
       {
-        "url": "https://toloka.to/photos/240706164651355998_f0_0.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/240706164651355998_f0_0.webp",
+        "team": "MVP",
+        "author": "ihabi"
       }
     ]
   },
@@ -10401,8 +10499,9 @@
     "hikka_url": "https://hikka.io/anime/meikyuu-black-company-7f6f4e",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563610/Глибини_Чорної_Компанії_wuju5u.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Глибини_Чорної_Компанії_wuju5u.webp",
+        "team": "Clan Kaizoku",
+        "author": "Shmyga"
       }
     ]
   },
@@ -10469,8 +10568,9 @@
     "hikka_url": "https://hikka.io/anime/hyouken-no-majutsushi-ga-sekai-wo-suberu-2f65b7",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733314447/Чарівник_крижаного_клинка_правитиме_світом_achd7m.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Чарівник_крижаного_клинка_правитиме_світом_achd7m.webp",
+        "author": "Пан Олександр",
+        "problems": "низька якість"
       }
     ]
   },
@@ -10500,8 +10600,8 @@
         "author": "Лунсар"
       },
       {
-        "url": "https://img.hurtom.com/i/2021/05/Coverfbbfa66fbcbc2df6.md.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Coverfbbfa66fbcbc2df6.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -10509,8 +10609,9 @@
     "hikka_url": "https://hikka.io/anime/kami-nomi-zo-shiru-sekai-2be711",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733560867/Цей_світ_відомий_тільки_Богу_awk7mc.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Цей_світ_відомий_тільки_Богу_awk7mc.webp",
+        "team": "Clan Kaizoku",
+        "author": "Fanat22012"
       }
     ]
   },
@@ -10554,7 +10655,7 @@
     "hikka_url": "https://hikka.io/anime/chis-sweet-home-5a0324",
     "posters": [
       {
-        "url": "Постери/Авторські/Пан Олександр/Милий Дім Чі c0mqzl.jpg",
+        "url": "Постери/Авторські/Пан Олександр/Милий Дім Чі c0mqzl.webp",
         "author": "Пан Олександр"
       }
     ]
@@ -10572,8 +10673,9 @@
     "hikka_url": "https://hikka.io/anime/guilty-crown-7b75ac",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938680/Вінець_Вини_faw7hl.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Вінець_Вини_faw7hl.webp",
+        "team": "UAMAX",
+        "author": "Невідомо"
       }
     ]
   },
@@ -10585,8 +10687,9 @@
         "author": "Лунсар"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938677/Робота_голосом_ncfnww.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Робота_голосом_ncfnww.webp",
+        "team": "Altron320",
+        "author": "Невідомо"
       }
     ]
   },
@@ -10594,8 +10697,21 @@
     "hikka_url": "https://hikka.io/anime/houseki-no-kuni-6abf59",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938677/Край_самоцвітів_pprgtv.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Край_самоцвітів_pprgtv.webp",
+        "team": "Altron320",
+        "author": "Невідомо"
+      },
+      {
+        "url": "Постери/Авторські/Гуртом/Kray_Koshtovnikh_kameniv1.webp",
+        "author": "Лунсар"
+      },
+      {
+        "url": "Постери/Авторські/Otaku-First/2109121451012760_f0_0.webp",
+        "author": "Otaku-First"
+      },
+      {
+        "url": "Постери/Невідомо/9gVBREgfo8KbMGznNrP9omh9cfO.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -10603,8 +10719,9 @@
     "hikka_url": "https://hikka.io/anime/devilman-crybaby-04a905",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999578/Девілмен_Плаксій_db4ems.png",
-        "author": ""
+        "url": "Постери/Від команд/Різні/Девілмен_Плаксій_db4ems.webp",
+        "team": "Mitsuruki",
+        "author": "Невідомо"
       }
     ]
   },
@@ -10652,8 +10769,9 @@
     "hikka_url": "https://hikka.io/anime/boku-ga-aishita-subete-no-kimi-e-79ca65",
     "posters": [
       {
-        "url": "https://img.hurtom.com/i/2024/09/photo_2024-09-13_22-33-58.jpg",
-        "author": ""
+        "url": "Постери/Від команд/InariDub/photo_2024-09-13_22-33-58.webp",
+        "tram": "InariDub",
+        "author": "Олехандро"
       }
     ]
   },
@@ -10661,8 +10779,8 @@
     "hikka_url": "https://hikka.io/anime/mangaka-san-to-assistant-san-to-the-animation-eb587e",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1730839996/161124190540824178_f0_0_jqe84w.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/161124190540824178_f0_0_jqe84w.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -10700,8 +10818,8 @@
     "hikka_url": "https://hikka.io/anime/maou-jou-de-oyasumi-f72889",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563630/Maoujou_de_Oyasumi_dm1bxn.png",
-        "author": ""
+        "url": "Постери/Невідомо/Maoujou_de_Oyasumi_dm1bxn.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -10736,8 +10854,9 @@
     "hikka_url": "https://hikka.io/anime/tsubasa-chronicle-tori-kago-no-kuni-no-himegimi-404ecf",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308627/Tsubasa_Chronicle_Tori_Kago_no_Kuni_no_Himegimi_ey8wsf.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Робота Голосом/Tsubasa_Chronicle_Tori_Kago_no_Kuni_no_Himegimi_ey8wsf.webp",
+        "team": "Робота Голосом",
+        "author": "SigridMarialer"
       }
     ]
   },
@@ -10754,8 +10873,9 @@
     "hikka_url": "https://hikka.io/anime/cider-no-you-ni-kotoba-ga-wakiagaru-ad3f7a",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938679/Слова_бурують_як_бульбашки_в_пляшці_c3oxtv.png",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/Слова_бурують_як_бульбашки_в_пляшці_c3oxtv.webp",
+        "team": "UFDUB",
+        "author": "MaxxLight"
       }
     ]
   },
@@ -10909,8 +11029,8 @@
     "hikka_url": "https://hikka.io/anime/genocyber-63d202",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308647/Genocyber_rvqvvz.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Genocyber_rvqvvz.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -11071,7 +11191,7 @@
     "hikka_url": "https://hikka.io/anime/gungrave-3b809d",
     "posters": [
       {
-        "url": "https://posters.hurtom.com/albums/anime/gungrave.jpg",
+        "url": "Постери/Авторські/Гуртом/gungrave.webp",
         "author": "Гуртом"
       }
     ]
@@ -11226,8 +11346,8 @@
     "hikka_url": "https://hikka.io/anime/koisuru-asteroid-a3dbbf",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999576/Закоханий_астероїд_nhw15i.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Гуртом/Закоханий_астероїд_nhw15i.webp",
+        "author": "Лунсар"
       }
     ]
   },
@@ -11244,8 +11364,8 @@
     "hikka_url": "https://hikka.io/anime/shenhai-0a0b88",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1735829727/Глибоке_море_f5tbg7.png",
-        "author": ""
+        "url": "Постери/Невідомо/Глибоке_море_f5tbg7.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -11445,8 +11565,9 @@
     "hikka_url": "https://hikka.io/anime/penguins-memory-shiawase-monogatari-95ea17",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308661/Penguins_Memory_Shiawase_Monogatari_wktd8r.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Penguins_Memory_Shiawase_Monogatari_wktd8r.webp",
+        "team": "Ukrop_Bob",
+        "author": "Невідомо"
       }
     ]
   },
@@ -11463,8 +11584,8 @@
     "hikka_url": "https://hikka.io/anime/gunslinger-girl-il-teatrino-d4d8a2",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999632/Дівчинка-вбивця._Ляльковий_театр_jknbwz.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Дівчинка-вбивця._Ляльковий_театр_jknbwz.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -11472,8 +11593,8 @@
     "hikka_url": "https://hikka.io/anime/memories-a47583",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308648/Спогади_sszjry.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Спогади_sszjry.webp",
+        "author": "Пан Олександр"
       },
       {
         "url": "Постери/Авторські/Гуртом/cannon-fodder-1995.webp",
@@ -11694,8 +11815,8 @@
     "hikka_url": "https://hikka.io/anime/kaichou-wa-maid-sama-c9b7f9",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563611/Президент_студради_-_покоївка_tu2bcc.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Президент_студради_-_покоївка_tu2bcc.webp",
+        "author": "Пан Олександр"
       },
       {
         "url": "Постери/Авторські/Гуртом/prezident-studradi.webp",
@@ -11786,8 +11907,8 @@
     "hikka_url": "https://hikka.io/anime/paprika-de053e",
     "posters": [
       {
-        "url": "https://img.hurtom.com/i/2022/09/Coverf37681b4665874c9.md.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/Coverf37681b4665874c9.webp",
+        "author": "abodnya"
       }
     ]
   },
@@ -11812,8 +11933,8 @@
         "author": "Лунсар"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999577/форма_голосу_hdiudd.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/форма_голосу_hdiudd.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -11882,8 +12003,13 @@
     "hikka_url": "https://hikka.io/anime/kamikaze-kaitou-jeanne-c9125e",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308662/Kamikaze_Kaitou_Jeanne_hdef5q.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Kamikaze_Kaitou_Jeanne_hdef5q.webp",
+        "author": "Пан Олександр"
+      },
+      {
+        "url": "Постери/Авторські/Пан Олександр/Kamikaze_Kaitou_Jeanne_bills_spirit.webp",
+        "team": "Clan Kaizoku",
+        "author": "bills spirit"
       }
     ]
   },
@@ -11953,8 +12079,8 @@
     "hikka_url": null,
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938677/Відьмак_Кошмар_вовка_jjngxg.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Відьмак_Кошмар_вовка_jjngxg.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -11980,8 +12106,8 @@
     "hikka_url": "https://hikka.io/anime/grancrest-senki-1353f4",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938679/Легенда_про_Ґранкрест_ipwtfg.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Легенда_про_Ґранкрест_ipwtfg.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -12065,8 +12191,8 @@
         "author": "Олехандро"
       },
       {
-        "url": "https://toloka.to/photos/200309130857889220_f0_0.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/200309130857889220_f0_0.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -12117,8 +12243,9 @@
     "hikka_url": "https://hikka.io/anime/sketchbook-full-colors-b65e13",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563573/Художній_альбом_xspyp2.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Художній_альбом_xspyp2.webp",
+        "team": "Clan Kaizoku",
+        "author": "Невідомо"
       }
     ]
   },
@@ -12126,8 +12253,8 @@
     "hikka_url": "https://hikka.io/anime/full-metal-panic-invisible-victory-f6a0f3",
     "posters": [
       {
-        "url": "https://anitube.in.ua/uploads/mini/full-news-poster/6/5e8a87a059a1ef03dabff7809f32b2.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/5e8a87a059a1ef03dabff7809f32b2.webp",
+        "author": "SigridMarialer"
       }
     ]
   },
@@ -12135,8 +12262,9 @@
     "hikka_url": "https://hikka.io/anime/runway-de-waratte-578ce1",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563609/Усмішка_з_подіуму_vye0aq.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Усмішка_з_подіуму_vye0aq.webp",
+        "team": "Clan Kaizoku",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -12358,8 +12486,9 @@
         "author": "Лунсар"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938680/Янгольські_ритми_vkkt3s.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/Янгольські_ритми_vkkt3s.webp",
+        "team": "UAMAX",
+        "author": "Невідомо"
       },
       {
         "url": "Постери/Авторські/Від Олехандро/angel beats! 1.1.webp",
@@ -12605,8 +12734,9 @@
     "hikka_url": "https://hikka.io/anime/chain-chronicle-haecceitas-no-hikari-f3f224",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938677/Заковане_Літописання_Світло_Хеккейтаса_dntvl9.png",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/Заковане_Літописання_Світло_Хеккейтаса_dntvl9.webp",
+        "team": "UFDUB",
+        "author": "CognitiviCH"
       }
     ]
   },
@@ -12658,8 +12788,8 @@
     "hikka_url": "https://hikka.io/anime/knights-magic-3cede0",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1735829725/Лицарі_та_Магія_arivie.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Лицарі_та_Магія_arivie.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -12676,8 +12806,8 @@
     "hikka_url": "https://hikka.io/anime/santa-company-ade6f7",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1735829725/Компанія_Санти_bu1ha2.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Компанія_Санти_bu1ha2.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -12712,8 +12842,8 @@
         "author": "Лунсар"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308662/твоє_імя_vrhapp.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/твоє_імя_vrhapp.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -12721,8 +12851,19 @@
     "hikka_url": "https://hikka.io/anime/log-horizon-21d717",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563610/Лог_Горизонт_tncjnl.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Лог_Горизонт_tncjnl.webp",
+        "team": "Clan Kaizoku",
+        "author": "Fanat22012"
+      },
+      {
+        "url": "Постери/Авторські/Clan Kaizoku/LOG-GORIZONT-M4.webp",
+        "team": "Clan Kaizoku",
+        "author": "Fanat22012"
+      },
+      {
+        "url": "Постери/Авторські/Clan Kaizoku/GORIZONT-M5.webp",
+        "team": "Clan Kaizoku",
+        "author": "Fanat22012"
       }
     ]
   },
@@ -12730,8 +12871,8 @@
     "hikka_url": null,
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1735829726/національні_свята_чілі_umqcft.webp",
-        "author": ""
+        "url": "Постери/Невідомо/національні_свята_чілі_umqcft.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -12739,8 +12880,8 @@
     "hikka_url": "https://hikka.io/anime/plastic-neesan-1a4a26",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1735829725/Plastic_Neesan_jklbsm.png",
-        "author": ""
+        "url": "Постери/Авторські/Otaku-First/Plastic_Neesan_jklbsm.webp",
+        "author": "Otaku-First"
       }
     ]
   },
@@ -12792,6 +12933,10 @@
     "hikka_url": "https://hikka.io/anime/jujutsu-kaisen-shimetsu-kaiyuu-b498eb",
     "posters": [
       {
+        "url": "Постери/Авторські/uaposters/Магічна битва 3 (2 версія).webp",
+        "author": "uaposters"
+      },
+      {
         "url": "Постери/Авторські/uaposters/Магічна битва 3.webp",
         "author": "uaposters"
       },
@@ -12800,12 +12945,12 @@
         "author": "Олехандро"
       },
       {
-        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/7635f005-9232-4b58-a26e-f7879d5a41e4/3c8c9d2c-fb07-47bd-aaad-c8ae74ade99c/%D0%9C%D0%B0%D0%B3%D1%96%D1%87%D0%BD%D0%B0_%D0%B1%D0%B8%D1%82%D0%B2%D0%B0_-_%D0%BD%D0%B8%D1%89%D1%96%D0%B2%D0%BD%D0%B0_%D0%BC%D1%96%D0%B3%D1%80%D0%B0%D1%86%D1%96%D1%8F.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RZBD67PQ%2F20250407%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250407T012756Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCy90yhd0U06WtX8GIZuhj824NWFQ4sV9Vzp8sJgpI7QgIgKcsv%2FL%2BymiiXIty5s7gD%2BNoAmk0vhH%2FF%2FfB%2BltEzPQkq%2FwMIUhAAGgw2Mzc0MjMxODM4MDUiDCwBYIjOTto2HFY6%2FircA5v7iGWKr10kV0F35WbF7WDUXDDZgXkBCoKqCYE1xD4b5SeHGB0B6%2FHTJVqp5l1O0%2FQvzWnNQT4vW9amHRoLMxGubnh2AqVqeZPDQ4VhBIPok9c2lFssGLMQ8kaD6bMbzx15H7DYk5hCeCmCIMeCpnfRP9%2BOaP6O9BIWsQcg5pWIxR3v9IBI%2F%2BvLQRpkUUUFWMNpuwIzeAL6%2BTu%2B0atNtvQv0dNLSGeMOCd6DFG3mc2sO4kqNCBocZCrP7DjOzeKp3JMAfH6H8rGt8deaeJqmo0V3gELZl%2FAGULuo17o13tytYQRqLIV1Sr%2Fj575LAHA2S6gCa3qp%2FGKeiehSDZmmB8DUa0%2B3moW%2Be4BoIlK0SnIiWwI2J3yAKGCYSu%2BoKBvDOAw%2FcPkNZr2iCCawM18AhnsfXYe6bWVZ06Q0BVdbUN8XYNtYskQTe%2BK6YZzl7jrPErTZxk2UlI2WIFKz3Fa5AUT3koNdfu6lG7QE1TyXJd0R%2BjGaSO1Ldm9FdIp%2B809p2vIFkbETEQ8NcRAb269nNcB2mUCcXfDRdCcJZPeJoCJaZ0vnzm9JSp2gU8deVaR3QXqZf7P%2BWP8VAJmhSKDj8%2BCNMvr6PRpfkGUeABup0uGIQzUtKeWcxA0kuLHMPLOzL8GOqUBIJWqE6IMLZG876upjDu%2BMN4S29sZOdZkq9G3P1117tS556QwpcfnYYE6k6AGUUt9ddL0NdCP5AO2chH%2B3PqjIseOgXJmWhP4bZ3qjELUib4tQT52cujPV%2BW9i%2BWmeXBLOf3OZ5a7miW9oe7dpHzo%2BMOm1JcZTJ99SsagHQ%2BVVelc7cNG3SXsZFFQFy0vTBmWufIGc2ql6HsSvU3jrTMQiJTORCWA&X-Amz-Signature=eca0876b86ae546b1d257e564b93c30c5e8bea69d6d98003966d6b6f80a8f64a&X-Amz-SignedHeaders=host&x-id=GetObject",
-        "author": ""
+        "url": "Постери/Невідомо/Магічна битва - гра на вибування-min.webp",
+        "author": "Невідомо"
       },
       {
-        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/7635f005-9232-4b58-a26e-f7879d5a41e4/dc34a631-95e9-4461-8656-ca3267e40024/%D0%9C%D0%B0%D0%B3%D1%96%D1%87%D0%BD%D0%B0_%D0%B1%D0%B8%D1%82%D0%B2%D0%B0_-_%D0%B3%D1%80%D0%B0_%D0%BD%D0%B0_%D0%B2%D0%B8%D0%B1%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-min.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RZBD67PQ%2F20250407%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250407T012756Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCy90yhd0U06WtX8GIZuhj824NWFQ4sV9Vzp8sJgpI7QgIgKcsv%2FL%2BymiiXIty5s7gD%2BNoAmk0vhH%2FF%2FfB%2BltEzPQkq%2FwMIUhAAGgw2Mzc0MjMxODM4MDUiDCwBYIjOTto2HFY6%2FircA5v7iGWKr10kV0F35WbF7WDUXDDZgXkBCoKqCYE1xD4b5SeHGB0B6%2FHTJVqp5l1O0%2FQvzWnNQT4vW9amHRoLMxGubnh2AqVqeZPDQ4VhBIPok9c2lFssGLMQ8kaD6bMbzx15H7DYk5hCeCmCIMeCpnfRP9%2BOaP6O9BIWsQcg5pWIxR3v9IBI%2F%2BvLQRpkUUUFWMNpuwIzeAL6%2BTu%2B0atNtvQv0dNLSGeMOCd6DFG3mc2sO4kqNCBocZCrP7DjOzeKp3JMAfH6H8rGt8deaeJqmo0V3gELZl%2FAGULuo17o13tytYQRqLIV1Sr%2Fj575LAHA2S6gCa3qp%2FGKeiehSDZmmB8DUa0%2B3moW%2Be4BoIlK0SnIiWwI2J3yAKGCYSu%2BoKBvDOAw%2FcPkNZr2iCCawM18AhnsfXYe6bWVZ06Q0BVdbUN8XYNtYskQTe%2BK6YZzl7jrPErTZxk2UlI2WIFKz3Fa5AUT3koNdfu6lG7QE1TyXJd0R%2BjGaSO1Ldm9FdIp%2B809p2vIFkbETEQ8NcRAb269nNcB2mUCcXfDRdCcJZPeJoCJaZ0vnzm9JSp2gU8deVaR3QXqZf7P%2BWP8VAJmhSKDj8%2BCNMvr6PRpfkGUeABup0uGIQzUtKeWcxA0kuLHMPLOzL8GOqUBIJWqE6IMLZG876upjDu%2BMN4S29sZOdZkq9G3P1117tS556QwpcfnYYE6k6AGUUt9ddL0NdCP5AO2chH%2B3PqjIseOgXJmWhP4bZ3qjELUib4tQT52cujPV%2BW9i%2BWmeXBLOf3OZ5a7miW9oe7dpHzo%2BMOm1JcZTJ99SsagHQ%2BVVelc7cNG3SXsZFFQFy0vTBmWufIGc2ql6HsSvU3jrTMQiJTORCWA&X-Amz-Signature=54cc6358ca5006836b86174356c39e02340de5fe02f457e8570a545bade15e02&X-Amz-SignedHeaders=host&x-id=GetObject",
-        "author": ""
+        "url": "Постери/Невідомо/Магічна битва - нищівна міграція.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -12822,8 +12967,9 @@
     "hikka_url": "https://hikka.io/anime/oruchuban-ebichu-5b2589",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1735829725/Хазяйновита_Ебічу_zimjb7.png",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/Хазяйновита_Ебічу_zimjb7.webp",
+        "team": "UFDUB",
+        "author": "MaxxLight"
       }
     ]
   },
@@ -12866,8 +13012,9 @@
     "hikka_url": "https://hikka.io/anime/chuunibyou-demo-koi-ga-shitai-lite-55fdd4",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938679/Chuunibyou_demo_Koi_ga_Shitai_Lite_ugxagh.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/Chuunibyou_demo_Koi_ga_Shitai_Lite_ugxagh.webp",
+        "team": "UAMAX, UkrDUB",
+        "author": "PhilosophUA"
       }
     ]
   },
@@ -13180,8 +13327,8 @@
     "hikka_url": "https://hikka.io/anime/himouto-umaru-chan-ova-0473e4",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999633/Дволика_сестричка_Умару_2_nqcrwr.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Дволика_сестричка_Умару_2_nqcrwr.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -13198,8 +13345,8 @@
     "hikka_url": "https://hikka.io/anime/quanzhi-gaoshou-specials-62d6a8",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563610/Аватар_короля_jinsph.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Otaku-First/Аватар_короля_jinsph.webp",
+        "author": "Otaku-First"
       }
     ]
   },
@@ -13211,8 +13358,8 @@
         "author": "Олехандро"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563466/Сім_Смертних_Гріхів_kr5bdb.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Сім_Смертних_Гріхів_kr5bdb.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -13224,8 +13371,8 @@
         "author": "Олехандро"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563466/Сім_Смертних_Гріхів_3_b5scln.png",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Сім_Смертних_Гріхів_3_b5scln.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -13268,8 +13415,9 @@
     "hikka_url": "https://hikka.io/anime/shinryaku-ika-musume-4dc416",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563571/Shinryaku_Ika_Musume_h9jvco.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Shinryaku_Ika_Musume_h9jvco.webp",
+        "team": "AniTube",
+        "author": "Невідомо"
       }
     ]
   },
@@ -13277,8 +13425,9 @@
     "hikka_url": "https://hikka.io/anime/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-0ca4b1",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563572/Otome_Game_lqgbnk.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Otome_Game_lqgbnk.webp",
+        "tram": "Akoman UA",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -13299,8 +13448,9 @@
     "hikka_url": "https://hikka.io/anime/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-1fcc05",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308626/Shinka_no_Mi_yxwa74.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Shinka_no_Mi_yxwa74.webp",
+        "team": "Корчма Лелеки",
+        "author": "Невідомо"
       }
     ]
   },
@@ -13308,8 +13458,8 @@
     "hikka_url": "https://hikka.io/anime/kyuukyoku-shinka-shita-full-dive-rpg-ga-genjitsu-yori-mo-kusoge-dattara-6d7ec0",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308625/Kyuukyoku_Shinka_adjqz7.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Kyuukyoku_Shinka_adjqz7.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -13317,8 +13467,9 @@
     "hikka_url": "https://hikka.io/anime/bakuon-5b5431",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308625/Бакуон_rpwpwl.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Бакуон_rpwpwl.webp",
+        "team": "Корчма Лелеки",
+        "author": "Невідомо"
       }
     ]
   },
@@ -13326,8 +13477,9 @@
     "hikka_url": "https://hikka.io/anime/shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-f60665",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308626/Shinka_no_Mi_2_nyxw97.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Shinka_no_Mi_2_nyxw97.webp",
+        "team": "Корчма Лелеки",
+        "author": "Невідомо"
       }
     ]
   },
@@ -13357,8 +13509,8 @@
     "hikka_url": "https://hikka.io/anime/dominion-f8ce73",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308647/Dominion_Tank_Police_o5lt0y.png",
-        "author": ""
+        "url": "Постери/Невідомо/Dominion_Tank_Police_o5lt0y.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -13366,8 +13518,9 @@
     "hikka_url": "https://hikka.io/anime/cross-road-ee7f10",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308675/Сross_Road_mvorw5.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Робота Голосом/Сross_Road_mvorw5.webp",
+        "team": "Робота Голосом",
+        "author": "Милуся"
       }
     ]
   },
@@ -13375,8 +13528,9 @@
     "hikka_url": "https://hikka.io/anime/amanchu-75a7b7",
     "posters": [
       {
-        "url": "https://toloka.to/photos/161217205110556234_f0_0.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Окремі/161217205110556234_f0_0.webp",
+        "team": "Робота Голосом",
+        "author": "SigridMarialer"
       }
     ]
   },
@@ -13384,8 +13538,8 @@
     "hikka_url": "https://hikka.io/anime/tetsuwan-birdy-14a077",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308661/Birdy_the_Mighty_j8e3bw.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/Birdy_the_Mighty_j8e3bw.jpg",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -13455,8 +13609,9 @@
     "hikka_url": "https://hikka.io/anime/uzumaki-ad2f63",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563572/Спіраль_fltuq5.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Спіраль_fltuq5.webp",
+        "team": "Clan Kaizoku",
+        "author": "Невідомо"
       },
       {
         "url": "Постери/Авторські/Від Олехандро/uzumaki 1.1.webp",
@@ -13476,8 +13631,9 @@
     "hikka_url": "https://hikka.io/anime/ai-no-utagoe-wo-kikasete-798aa3",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1730730456/2403252155192760_f0_0_pwjpa2.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/2403252155192760_f0_0_pwjpa2.webp",
+        "team": "Clan Kaizoku",
+        "author": "Невідомо"
       }
     ]
   },
@@ -13494,8 +13650,8 @@
     "hikka_url": "https://hikka.io/anime/arifureta-shokugyou-de-sekai-saikyou-3rd-season-b2c9b4",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563466/Звичайна_професія_-_найсильніший_у_світі_nofs9m.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Otaku-First/Звичайна_професія_-_найсильніший_у_світі_nofs9m.webp",
+        "author": "Otaku-First"
       },
       {
         "url": "Постери/Авторські/Від Олехандро/arifureta 3.1.webp",
@@ -13665,8 +13821,8 @@
     "hikka_url": "https://hikka.io/anime/vivy-fluorite-eyes-song-d09492",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308661/Vivy_Fluorite_Eyes_Song_icm4y0.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Vivy_Fluorite_Eyes_Song_icm4y0.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -13930,8 +14086,9 @@
         "author": "Mikai"
       },
       {
-        "url": "медово-лимонна_содова_2_p6qupw",
-        "author": ""
+        "url": "Постери/Авторські/Anime Classic/медово-лимонна_содова_2_p6qupw.webp",
+        "team": "Anime Classic",
+        "author": "Anna"
       }
     ]
   },
@@ -14015,16 +14172,16 @@
     "hikka_url": "https://hikka.io/anime/kono-sekai-wa-fukanzen-sugiru-863e06",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1729165078/photo_2024-10-16_11-30-15_mim6tz.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Візуали/photo_2024-10-16_11-30-15_mim6tz.webp",
+        "author": "Візуали"
       },
       {
         "url": "Постери/Авторські/Візуали/photo_2024-10-16_11-30-17.webp",
         "author": "Візуали"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1729165150/Picsart_24-03-16_11-19-32-950_y5qgdb.png",
-        "author": ""
+        "url": "Постери/Авторські/Візуали/Picsart_24-03-16_11-19-32-950_y5qgdb.webp",
+        "author": "Візуали"
       },
       {
         "url": "Постери/Авторські/Візуали/Picsart_24-03-16_11-21-02-093.webp",
@@ -14279,8 +14436,8 @@
     "hikka_url": "https://hikka.io/anime/bishoujo-senshi-sailor-moon-cosmos-movie-39e880",
     "posters": [
       {
-        "url": "https://img.hurtom.com/i/2024/09/Covere553e4895f1ae11f.md.jpg",
-        "author": ""
+        "url": "Постери/Невідомо/Covere553e4895f1ae11f.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -14323,8 +14480,9 @@
     "hikka_url": "https://hikka.io/anime/cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore-c2fdd9",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733999577/Аптека в іншому світі. Неквапливе життя аптекаря alhgrn.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Аптека в іншому світі. Неквапливе життя аптекаря alhgrn.webp",
+        "team": "Clan Kaizoku",
+        "author": "Shmyga"
       }
     ]
   },
@@ -15448,8 +15606,8 @@
         "author": "uaposters"
       },
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1729171263/Орбіта_jfre6i.png",
-        "author": ""
+        "url": "Постери/Авторські/uaposters/Орбіта_jfre6i.webp",
+        "author": "uaposters"
       }
     ]
   },
@@ -15523,8 +15681,8 @@
         "author": "Лунсар"
       },
       {
-        "url": "Вона_та_її_кіт_s3kpty",
-        "author": "Невідомо"
+        "url": "Постери/Авторські/Гуртом/Вона_та_її_кіт_s3kpty.webp",
+        "author": "Лунсар"
       }
     ]
   },
@@ -15738,8 +15896,8 @@
     "hikka_url": "https://hikka.io/anime/seikimatsu-occult-gakuin-48eb1d",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1734938678/Окультна_Академія_hjfir1.png",
-        "author": ""
+        "url": "Постери/Авторські/Otaku-First/Окультна_Академія_hjfir1.webp",
+        "author": "Otaku-First"
       }
     ]
   },
@@ -15824,12 +15982,12 @@
         "author": "uaposters"
       },
       {
-        "url": "Щоденник_аптекарки_lc22bb",
-        "author": ""
+        "url": "Постери/Невідомо/Щоденник_аптекарки_lc22bb.webp",
+        "author": "Невідомо"
       },
       {
-        "url": "монолог_травниці_2_zaiu3r",
-        "author": ""
+        "url": "Постери/Невідомо/монолог_травниці_2_zaiu3r.webp",
+        "author": "Невідомо"
       }
     ]
   },
@@ -15837,8 +15995,8 @@
     "hikka_url": "https://hikka.io/anime/one-off-3f7e4a",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563572/one_off_ahpfsn.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Пан Олександр/one_off_ahpfsn.webp",
+        "author": "Пан Олександр"
       }
     ]
   },
@@ -16075,8 +16233,9 @@
     "hikka_url": "https://hikka.io/anime/inuyashiki-48e4fd",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733563466/Інуяшікі_udqv7f.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Clan Kaizoku/Інуяшікі_udqv7f.webp",
+        "team": "Clan Kaizoku",
+        "author": "toppi"
       }
     ]
   },
@@ -16206,8 +16365,9 @@
     "hikka_url": "https://hikka.io/anime/pandora-hearts-5c3262",
     "posters": [
       {
-        "url": "https://res.cloudinary.com/dur0xqcyp/image/upload/v1733308646/Серця_пандори_ibrswf.jpg",
-        "author": ""
+        "url": "Постери/Авторські/Робота Голосом/Серця_пандори_ibrswf.webp",
+        "team": "Робота Голосом",
+        "author": "Rosava"
       }
     ]
   }
